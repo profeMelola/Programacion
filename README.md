@@ -30,4 +30,4 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
   - .... 
 
 ## Actividades de repaso del Lab1, Lab2 y Lab3
-[Repaso](RepasoLab123.pdf)
+[Repaso](RepasoLab123.md)
