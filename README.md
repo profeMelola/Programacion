@@ -9,6 +9,7 @@ Estará compuesto de diferentes laboratorios propuestos por el profesor.
 
 Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplos y ejercicios en algunos casos.
 
+[Laboratorio 1](Lab1/Laboratorio1.md) 
 ## Laboratorio 1
 #### Primeros pasos en Java:
 - Conceptos básicos:
