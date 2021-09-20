@@ -11,7 +11,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 
 
 ## Laboratorio 1
-[Lab 1](Lab1/Laboratorio1.md) 
+[Lab 1](Lab1/Instrucciones_Lab1.md) 
 #### Primeros pasos en Java:
 - Conceptos básicos:
   - Uso de tipos primitivos
