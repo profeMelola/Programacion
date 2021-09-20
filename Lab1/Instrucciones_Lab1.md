@@ -18,9 +18,10 @@
 ....
 
 ## Orden de las prácticas
+Empezad por la actividad resulta 1.01 y continuad en orden:
 
 ![image](https://user-images.githubusercontent.com/91023374/133965194-155a902d-f871-4e0d-a742-7e72c3eb81c8.png)
-Empezad por la actividad resulta 1.01 y continuad en orden.
 
-**El número de actividades irán aumentando según criterio del profesor**
+
+**El número de actividades irá aumentando según criterio del profesor**
 
