@@ -19,6 +19,6 @@ Para documentar los fuentes .java vamos a seguir las siguientes etiquetas de Jav
 - [Laboratorio 3](Lab1/Instrucciones_Lab3.md)
 ........
 
-## Actividades de repaso grupales
+## Actividades de repaso grupales (varios laboratorios)
 #### Lab1, Lab2 y Lab3
 [Repaso](RepasoLab123.md)
