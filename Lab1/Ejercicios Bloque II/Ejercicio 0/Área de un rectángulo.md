@@ -1,5 +1,5 @@
-## Enunciado Ejercicio 0
-Realizar el pseudocódigo de un programa que permita calcular el área de un rectángulo. Se debe introducir las base y la altura para poder realizar el cálculo
+## Calcular el área de un rectángulo
+Realizar un programa que permita calcular el área de un rectángulo. Se debe introducir las base y la altura para poder realizar el cálculo
 
 
 **Programa:** CalcularAreaRectangulo
