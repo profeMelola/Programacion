@@ -10,8 +10,8 @@ Este repositorio está compuesto de diferentes laboratorios propuestos por el pr
 Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplos y ejercicios en algunos casos.
 
 ## Laboratorios
-- [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
-- [Laboratorio 2](Lab1/Instrucciones_Lab2.md)
+- Primeros pasos [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
+- Condicionales y bucles [Laboratorio 2](Lab1/Instrucciones_Lab2.md)
 - [Laboratorio 3](Lab1/Instrucciones_Lab3.md)
 ........
 
