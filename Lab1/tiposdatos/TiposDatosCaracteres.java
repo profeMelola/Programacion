@@ -1,5 +1,5 @@
 /**
- * 
+ * Practicando con caracteres y cadenas de caracteres (String)
  */
 package tiposdatos;
 
