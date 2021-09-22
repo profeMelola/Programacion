@@ -1,13 +1,9 @@
 /**
- * 
+ * @author melola 
  */
 package tiposdatos;
 
-/**
- * @author Openwebinars
- *
- */
-@SuppressWarnings("all")
+
 public class TiposDatosNumericos {
 
 	/**
@@ -21,26 +17,32 @@ public class TiposDatosNumericos {
 		
 		//Valor booleano VERDADERO
 		boolean resultado = true;
+		
 		//Letra C
 		char letraMayuscula = 'C';
-		//N鷐ero 100
+		
+		//N煤mero 100
 		byte by = 100;
-		//N鷐ero 1000
+		
+		//N煤mero 1000
 		short sh = 1000;
-		//N鷐ero 1000000
+		
+		//N煤mero 1000000
 		int in = 1000000;
 		
 		//Valor 26, en decimal
 		int decVal = 26;
+		
 		//Valor 26, en hexadecimal
 		int hexVal = 0x1a;
+		
 		//Valor 26, en binario
 		int binVal = 0b11010;
 		
 		//String s = "Hola Mundo";
 		
 		/*
-		 * TIPOS DE DATOS NUM蒖ICOS
+		 * TIPOS DE DATOS NUM脡RICOS
 		 */
 		
 		//TIPOS DE DATOS ENTEROS
@@ -55,14 +57,13 @@ public class TiposDatosNumericos {
 		
 		
 		//TIPOS DE DATOS REALES
-		//Precisi髇 simple
+		//Precisi贸n simple
 		float f = 0.25f;
-		//Precisi髇 doble
+		//Precisi贸n doble
 		double Pi = Math.PI;
 		
-		
-		
-		//OPERADORES NUM蒖ICOS
+				
+		//OPERADORES NUM脡RICOS
 		int x = 7;
 		int y = 5;
 		
@@ -76,25 +77,25 @@ public class TiposDatosNumericos {
 		System.out.print("Resta ");
 		System.out.println(z);
 		
-		//Multiplicaci髇
+		//Multiplicaci贸n
 		z = x * y;
-		System.out.print("Multipliaci髇 ");		
+		System.out.print("Multipliaci贸n ");		
 		System.out.println(z);
 		
 		
-		//Divisi髇 (entera)
+		//Divisi贸n (entera)
 		z = x / y;
-		System.out.print("Divisi髇 entera ");		
+		System.out.print("Divisi贸n entera ");		
 		System.out.println(z);
 		
-		//Divisi髇 (no entera)
+		//Divisi贸n (no entera)
 		double j = Pi/f;
-		System.out.println("Divisi髇 con decimales ");
+		System.out.println("Divisi贸n con decimales ");
 		System.out.println(j);
 				
 		//Resto
 		z = x % y;
-		System.out.print("M骴ulo o resto ");		
+		System.out.print("M贸dulo o resto ");		
 		System.out.println(z);
 		
 		//Incremento
@@ -104,7 +105,7 @@ public class TiposDatosNumericos {
 		System.out.println(x);
 		
 		
-		
+		/*
 		//OPERADORES A NIVEL DE BITS
 		int bitmask = 0b0011; 
 		int val = 0b1111; 
@@ -120,7 +121,9 @@ public class TiposDatosNumericos {
 		res = val | bitmask; //1111
 		System.out.print("OR inclusivo ");
 		System.out.println(Integer.toBinaryString(res));
+		*/
 		
+		/*
 		// 0b1111
 		
 		res = val << 1; //11110
@@ -148,12 +151,6 @@ public class TiposDatosNumericos {
 //		int b = 9;
 //		
 //		System.out.println((double)a/b);
-		
-			
-		
-		
-		
-
+		*/
 	}
-
 }
