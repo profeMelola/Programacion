@@ -18,9 +18,7 @@
 ....
 
 ## Orden de las prácticas
-Empezad por la actividad resulta 1.01 y continuad en orden, tal y como muestra la siguiente captura:
-
-![image](https://user-images.githubusercontent.com/91023374/133965194-155a902d-f871-4e0d-a742-7e72c3eb81c8.png)
+Empezad por la actividad resulta 1.01 y continuad en orden.
 
 Accede a las [Prácticas Laboratorio 1](https://github.com/profeMelola/Programacion/tree/main/Lab1)
 
