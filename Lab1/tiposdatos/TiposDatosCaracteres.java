@@ -3,10 +3,6 @@
  */
 package tiposdatos;
 
-/**
- * @author Openwebinars
- *
- */
 public class TiposDatosCaracteres {
 
 	/**
@@ -20,8 +16,8 @@ public class TiposDatosCaracteres {
 		String str = "Cadena de caracteres";
 		System.out.println(str);
 		
-		String str2 = " m·s larga";
-		System.out.println(str + str2); // Cadena de caracteres m·s larga
+		String str2 = " m√°s larga";
+		System.out.println(str + str2); // Cadena de caracteres m√°s larga
 		
 		
 
