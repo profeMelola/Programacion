@@ -1,4 +1,4 @@
-## Enunciado del ejercicio 2 ##
+## Convertir grados de temperatura ##
 Escribir el programa que reciba como dato de entrada el valor de una temperatura expresada en grados centígrados y nos calcule y escriba sus equivalentes en grados Reamhur, grados Fahrenheit y grados Kelvin.
 
 **Programa:** CalcularGrados
