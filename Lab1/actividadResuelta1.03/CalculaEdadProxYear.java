@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-   public static void main(String[] args) {
+   public static void CalculaEdadProxYear(String[] args) {
       int edad; 
       Scanner sc = new Scanner(System.in);
       System.out.print("Escriba su edad: ");
