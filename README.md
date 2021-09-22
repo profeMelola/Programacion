@@ -16,5 +16,5 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 ........
 
 ## Actividades de repaso grupales (varios laboratorios)
-#### Lab1, Lab2 y Lab3
+#### Repaso laboratorio 1
 [Repaso](Repaso/Repaso_Lab123.md)
