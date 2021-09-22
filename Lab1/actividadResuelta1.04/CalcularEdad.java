@@ -1,5 +1,10 @@
+/**
+ * Programa que calcula la edad en función del año de nacimiento y el año actual
+ * Pedirá dos datos: el año de nacimiento y el año actual (ambos de tipo entero)
+ * Devolverá la edad por consola
+ */
 import java.util.Scanner;
-public class CalcularEdad {
+public class CalcularEdad2 {
    public static void main(String[] args) {
       int aActual;
       int aNacimiento;
