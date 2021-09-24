@@ -4,10 +4,6 @@
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
 public class Decision04 {
 
 	/**
@@ -24,7 +20,7 @@ public class Decision04 {
 		} else if (puntuacion >= 5) {
 			System.out.println("Tienes un APROBADO");
 		} else {
-			System.out.println("Est·s SUSPENSO. Lo siento");
+			System.out.println("Est√°s SUSPENSO. Lo siento");
 		}
 		
 		
