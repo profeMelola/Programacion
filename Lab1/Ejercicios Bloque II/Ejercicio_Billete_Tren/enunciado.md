@@ -11,4 +11,4 @@
 - Mayor de 64 años (a partir de 65): gratis
 
 #### RETO!!!
-En el viaje vendido número 1000 el billete será gratis.
+En el viaje vendido número 5 (el quinto billete que vende la máquina), el billete será gratis.
