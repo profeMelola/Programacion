@@ -3,10 +3,6 @@
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
 public class Decision03 {
 
 	/**
@@ -17,9 +13,9 @@ public class Decision03 {
 		int num1 = 25;
 		int num2 = 21;
 		if (num1 > num2) {
-			System.out.println("El número mayor es " + num1); 
+			System.out.println("El nÃºmero mayor es " + num1); 
 		} else { 			
-			System.out.println("El número mayor es " + num2);
+			System.out.println("El nÃºmero mayor es " + num2);
 		}
 
 	}
