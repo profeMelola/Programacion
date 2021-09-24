@@ -3,7 +3,7 @@
  */
 package decision;
 
-public class Decision07 {
+public class Decision07_switch {
 
 	/**
 	 * @param args
@@ -13,7 +13,7 @@ public class Decision07 {
 		String mes = "enero";
 
 		switch (mes) {
-		case "Enero":
+		case "enero":
 			mesNumero = 1;
 			break;
 		case "febrero":
