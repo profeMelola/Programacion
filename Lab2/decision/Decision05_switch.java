@@ -3,7 +3,7 @@
  */
 package decision;
 
-public class Decision05 {
+public class Decision05_switch {
 
 	/**
 	 * @param args
