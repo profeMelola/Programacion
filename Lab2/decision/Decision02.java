@@ -1,12 +1,9 @@
 /**
- *  Ejemplo de uso de la estructura IF con una condiciÛn m·s compleja
+ *  Ejemplo de uso de la estructura IF con una condici√≥n m√°s compleja
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
+
 public class Decision02 {
 
 	/**
