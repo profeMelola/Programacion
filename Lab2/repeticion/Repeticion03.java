@@ -3,10 +3,6 @@
  */
 package repeticion;
 
-/**
- * @author Openwebinars
- *
- */
 public class Repeticion03 {
 
 	/**
