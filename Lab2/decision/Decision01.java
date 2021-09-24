@@ -3,10 +3,6 @@
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
 public class Decision01 {
 
 	/**
