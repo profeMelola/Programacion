@@ -3,10 +3,6 @@
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
 public class Decision07 {
 
 	/**
@@ -58,7 +54,7 @@ public class Decision07 {
 			break;
 		}
 
-		System.out.println("El mes de " + mes + " se corresponde con el número " + mesNumero );
+		System.out.println("El mes de " + mes + " se corresponde con el nÃºmero " + mesNumero );
 
 	}
 
