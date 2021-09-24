@@ -1,12 +1,8 @@
 /**
- * Ejemplo m·s complejo de uso de SWITCH
+ * Ejemplo m√°s complejo de uso de SWITCH
  */
 package decision;
 
-/**
- * @author Openwebinars
- *
- */
 public class Decision06 {
 
 	/**
@@ -33,15 +29,15 @@ public class Decision06 {
 			numDias = 30;
 			break;
 		case 2:
-			// No tenemos en cuenta si el aÒo es bisiesto
-			// para no hacer m·s complejo el ejemplo
+			// No tenemos en cuenta si el a√±o es bisiesto
+			// para no hacer m√°s complejo el ejemplo
 			numDias = 28;
 			break;
 		default:
-			System.out.println("Mes no v·lido");
+			System.out.println("Mes no v√°lido");
 			break;
 		}
-		System.out.println("N˙mero de dÌas = " + numDias);
+		System.out.println("N√∫mero de d√≠as = " + numDias);
 	}
 
 }
