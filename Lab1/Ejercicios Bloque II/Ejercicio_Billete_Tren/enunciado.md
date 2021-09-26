@@ -10,5 +10,11 @@
 - Entre 18 y 64 años: no hay descuento
 - Mayor de 64 años (a partir de 65): gratis
 
-#### RETO!!!
+#### RETO 1 !!!
 En el viaje vendido número 5 (el quinto billete que vende la máquina), el billete será gratis.
+En ese momento el programa parará.
+
+#### RETO 2 !!!
+Cada 5 billetes vendidos el precio del billete será gratis y no parará la ejecución del programa hasta llegar a un número de billetes vendidos que el usuario ha especificado previamente por consola.
+
+
