@@ -1,5 +1,5 @@
 /**
- * Revisar printf
+ * Revisar printf: formatting output
  * Revisar clase Locale
  */
 import Java.util.Locale;
