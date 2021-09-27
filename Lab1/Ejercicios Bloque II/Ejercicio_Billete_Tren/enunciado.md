@@ -18,4 +18,9 @@ En ese momento el programa parará.
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 2 !!!**
 Cada 5 billetes vendidos el precio del billete será gratis y no parará la ejecución del programa hasta llegar a un número de billetes vendidos que el usuario ha especificado previamente por consola.
 
+![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 3 !!!**
+- La máquina expendedora de billetes debe preguntar por el número de billetes que quiere comprar el usuario (en vez de ir de uno en uno como en los retos anteriores)
+- Una vez que sabe el número de billetes, por cada uno de ellos debe preguntar la edad para calcular el importe.
+- Debe indicar por pantalla el precio de cada billete.
+- Finalmente debe indicar el importe total de todos los billetes.
 
