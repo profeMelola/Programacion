@@ -1,6 +1,6 @@
 /**
  * Revisar el uso de Locale en Scanner
- * Revisar el Type Casting 
+ * Revisar el Type Casting (https://www.educative.io/edpresso/how-to-convert-a-double-to-int-in-java)
  */
 import java.util.Locale;
 import java.util.Scanner;
