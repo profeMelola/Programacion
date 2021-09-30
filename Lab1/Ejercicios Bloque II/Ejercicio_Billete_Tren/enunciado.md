@@ -30,4 +30,4 @@ El programa no parará hasta llegar a un número de billetes vendidos que el usu
 - Finalmente debe indicar el importe total de todos los billetes que ha comprado el usuario.
 
 ![image](https://user-images.githubusercontent.com/91023374/134820387-4429bb44-1c97-427f-83be-07a0ac16e9a8.png) **RETO 4 !!!**
-- Debes añadir al reto3 la lógica para que al finalizar el programa se muestre por pantalla el importe total que la máquina ha recaudado (el sumatorio de todos los importes de cada operación)
+- Debes añadir al reto3 la lógica para que al finalizar el programa (se ha llegado al límite de operaciones) se muestre por pantalla el importe total recaudado por la máquina (el sumatorio de todos los importes de cada operación)
