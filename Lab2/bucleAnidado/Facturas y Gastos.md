@@ -1,7 +1,7 @@
 ## Ejercicio para practicar un doble bucle
 
 
-  **PROGRAMA QUE POR CADA FACTURA DEL USUARIO, CALCULA EL IMPORTE TOTAL DE TODOS SUS GASTOS.**
+  **PROGRAMA QUE CALCULA EL IMPORTE TOTAL DE TODAS LAS FACTURAS Y SUS GASTOS ASOCIADOS**
  
   *REQUISITOS:*
   - Debe pedir el número de facturas del cliente.
