@@ -81,7 +81,7 @@ public class BilletesTrenRet3Funcion {
 
     /**
      * obtenerNumOperaciones
-     * @param sc Scanner
+     * @param sc Lector
      * @return 
      */
     public static int obtenerNumOperaciones(Scanner sc){
@@ -102,8 +102,8 @@ public class BilletesTrenRet3Funcion {
     
     /**
      * obtenerPrecioConDescuento
-     * @param edad int 
-     * @return int precio final billete
+     * @param edad  
+     * @return precio final billete
      */
     public static int obtenerPrecioConDescuento(int edad){
         int precioFinalBillete = 0;
