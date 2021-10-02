@@ -12,7 +12,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 ## Laboratorios
 - Primeros pasos [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
 - Condicionales y bucles [Laboratorio 2](Lab2/Instrucciones_Lab2.md)
-- [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
+- Funciones / métodos [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
 ........
 
 ## Actividades de repaso grupales (varios laboratorios)
