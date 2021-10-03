@@ -6,7 +6,7 @@ Realizar el pseudocódigo que permita al usuario introducir por teclado dos nota
 
 **Entorno:**
 
-SUMA, PRODUCTO, NOTA1, NOTA2 son numéricas enteras
+SUMA, MEDIA, NOTA1, NOTA2 son numéricas enteras
 
 **Algoritmo:**
 
