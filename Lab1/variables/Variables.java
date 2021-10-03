@@ -3,10 +3,6 @@
  */
 package variables;
 
-/**
- * @author Openwebinars
- *
- */
 public class Variables {
 
 	/**
@@ -14,14 +10,14 @@ public class Variables {
 	 */
 	public static void main(String[] args) {
 		
-		//Declaraci髇 e inicializaci髇 de dos variables
+		//Declaraci贸n e inicializaci贸n de dos variables
 		int numero = 7;		
 		char letra = 'a';		
 		
-		//Declaraci髇 e inicializaci髇 de una constante
+		//Declaraci贸n e inicializaci贸n de una constante
 		final int NUM_HORAS = 8;	
 		
-		//Impresi髇 por consola de los 3 valores
+		//Impresi贸n por consola de los 3 valores
 		System.out.println(numero);
 		
 		System.out.println(letra);
