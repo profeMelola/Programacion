@@ -1,9 +1,9 @@
 /**
- * @author melola 
+ * 
  */
 package tiposdatos;
 
-
+@SuppressWarnings("all")
 public class TiposDatosNumericos {
 
 	/**
@@ -17,39 +17,33 @@ public class TiposDatosNumericos {
 		
 		//Valor booleano VERDADERO
 		boolean resultado = true;
-		
 		//Letra C
 		char letraMayuscula = 'C';
-		
 		//Número 100
 		byte by = 100;
-		
 		//Número 1000
 		short sh = 1000;
-		
 		//Número 1000000
 		int in = 1000000;
 		
 		//Valor 26, en decimal
 		int decVal = 26;
-		
 		//Valor 26, en hexadecimal
 		int hexVal = 0x1a;
-		
 		//Valor 26, en binario
 		int binVal = 0b11010;
 		
-		//String s = "Hola Mundo";
+		String s = "Hola Mundo";
 		
 		/*
-		 * TIPOS DE DATOS NUMÉRICOS
+		 * TIPOS DE DATOS NUM�RICOS
 		 */
 		
 		//TIPOS DE DATOS ENTEROS
 		//[-128,127]
 		byte b = 28;
 		//[-32768,32767]
-		short s = 3458;
+		short corto = 3458;
 		//[-2^31,(2^31)-1]
 		int i = 33456;
 		//[-2^63,(2^63)-1]
@@ -59,10 +53,12 @@ public class TiposDatosNumericos {
 		//TIPOS DE DATOS REALES
 		//Precisión simple
 		float f = 0.25f;
+                float f2 = 0.25;
 		//Precisión doble
 		double Pi = Math.PI;
 		
-				
+
+                // ----------------------------------
 		//OPERADORES NUMÉRICOS
 		int x = 7;
 		int y = 5;
@@ -105,8 +101,15 @@ public class TiposDatosNumericos {
 		System.out.println(x);
 		
 		
-		/*
+		int num1 = 5;
+		int num2 = 9;
+		
+		System.out.println("División con decimales (double):"+(double)num1/num2);
+                System.out.println("División con decimales (int):"+num1/num2);
+                
+		
 		//OPERADORES A NIVEL DE BITS
+                System.out.println("** OPERADORES A NIVEL DE BITS!!!!");
 		int bitmask = 0b0011; 
 		int val = 0b1111; 
 		
@@ -121,9 +124,7 @@ public class TiposDatosNumericos {
 		res = val | bitmask; //1111
 		System.out.print("OR inclusivo ");
 		System.out.println(Integer.toBinaryString(res));
-		*/
 		
-		/*
 		// 0b1111
 		
 		res = val << 1; //11110
@@ -146,11 +147,7 @@ public class TiposDatosNumericos {
 		res = ~val; //11111111111111111111111111110000
 		System.out.print("Inverso o complementario ");
 		System.out.println(Integer.toBinaryString(res));
-
-//		int a = 5;
-//		int b = 9;
-//		
-//		System.out.println((double)a/b);
-		*/
+                                
+		
 	}
 }
