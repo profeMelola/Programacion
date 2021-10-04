@@ -1,4 +1,8 @@
 
+/*
+ * Solución al reto 3 y 4 pero separando la lógica en dos nuevas funciones:
+ * obtenerPrecioConDescuento y obtenerNumOperaciones
+ */
 import java.util.Scanner;
 
 /*
