@@ -4,6 +4,7 @@
 
 - Debes crear un menú con las diferentes opciones de la calculadora.
 - Por cada opción debes implementar una función.
+- Cada función va a recibir solo dos operandos.
 - El menú aparecerá hasta que el usuario eliga la opción 6 de salir
 
 
