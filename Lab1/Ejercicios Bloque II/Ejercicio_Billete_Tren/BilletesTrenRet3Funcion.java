@@ -25,7 +25,7 @@ public class BilletesTrenRet3Funcion {
      * @param args 
      */
     public static void main(String[] args) {
-        System.out.println("* BILLETES TREN RETO 3 CON FUNCIONES MÉTODOS!!!!");
+        System.out.println("* BILLETES TREN RETO 3 y 4 CON FUNCIONES MÉTODOS!!!!");
         
         // --------------------------------------
         // Declarando variables
