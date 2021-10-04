@@ -1,9 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package billetetren;
+package billetetrenfuncionfecha;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -14,13 +9,17 @@ import java.util.Scanner;
  * @author melola
  */
 public class BilleteTrenConFuncionFecha {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        // Declarando variables
+                // Declarando variables
         final int precioBillete = 2; //precio sin descuento de un billete
         int edad = 0; 
         int precioFinalBillete = 0; //precio final de un billete
                 
-        int contador = 1; //contador del primer bucle (número de operaciones
+        int contador = 1; //contador del primer bucle (número de operaciones)
         int limite = 0; //límite de operaciones a realizar por la máquina
         
         int numBilletes = 0; 
@@ -42,31 +41,6 @@ public class BilleteTrenConFuncionFecha {
         }while (limite <= 0);
         // ----------------------------------------------------------------
         
-        // ----------------------------------------------------------------
-        /*
-        // Nota: he dejado a posta un fallo
-            [EXPENDEDORA DE BILLETES: Reto 3]Introduce el límite de operaciones a realizar por la máquina: 
-            2
-            ***************************
-            *Operación número <1>
-            *Indica el número de billetes que quieres comprar (no puedes comprar más de 5): 0
-            1
-            *Introduce la edad para el billete (1):45
-            El precio de tu billete es: 2
-            El precio total de todos los billetes es: 2
-            ***************************
-            *Operación número <2>
-            *Indica el número de billetes que quieres comprar (no puedes comprar más de 5): 1
-            3
-            *Introduce la edad para el billete (1):15
-            El precio de tu billete es: 1
-            *Introduce la edad para el billete (2):34
-            El precio de tu billete es: 2
-            *Introduce la edad para el billete (3):56
-            El precio de tu billete es: 2
-            El precio total de todos los billetes es: 7
-            >>>>>>>>>> LA MÁQUINA EXPENDEDORA DE BILLETES HA LLEGADO A SU FIN!!!!        
-        */
         // Buble de la venta de billetes
         while ( contador <= limite){
         
@@ -106,13 +80,16 @@ public class BilleteTrenConFuncionFecha {
                     System.out.println("El precio de tu billete es: "+precioFinalBillete);
                     precioTotalBilletes = precioTotalBilletes + precioFinalBillete;
                     
-                    contador++;
+                   
                 }
                 System.out.println("El precio total de todos los billetes es: "+precioTotalBilletes);
+                precioTotalBilletes=0;
+                contador++;
             }
             else
                 System.out.println("Por lo menos debes comprar un billete!!!!");
         }
+        
         if (contador > limite){
             fecha = dameFecha();
             System.out.println("["+fecha+"]>>>>>>>>>> LA MÁQUINA EXPENDEDORA DE BILLETES HA LLEGADO A SU FIN!!!!");

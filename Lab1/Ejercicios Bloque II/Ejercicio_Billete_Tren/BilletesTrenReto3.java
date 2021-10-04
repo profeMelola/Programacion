@@ -1,4 +1,7 @@
 
+/*
+ * También está incluida la solución del RETO 4 al gestionar el importe total recaudado por la máquina expendedora de billetes
+ */
 import java.util.Scanner;
 
 
