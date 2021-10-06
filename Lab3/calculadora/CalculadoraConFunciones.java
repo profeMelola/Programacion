@@ -6,6 +6,9 @@
  *  - Expresiones
  *  - Estructuras de decisión
  *  - Estructuras de repetición
+ 
+ 
+ * PENDIENTE COMPLETAR EL RESTO DE FUNCIONES. SOLO ESTÁ LA SUMA!!!!!
  *
  */
 package calculadora;
