@@ -34,7 +34,9 @@ El texto "esto es un ejemplo" tiene 7 vocales y 8 consonantes
 #### Ejercicio 6: divide una cadena en dos partes
 
 Divide la siguiente cadena "Me gusta programar en java" en:
+
 "Me gusta programar"
+
 " en java"
 
 #### Ejercicio 7: transforma el texto del ejercicio 6 primero a mayúsculas y después a minúsculas (todo el texto)
@@ -50,7 +52,9 @@ Este programa debe pedir al usuario dos cadenas de texto y debe indicar si son i
 Si la cadena es ABCD, la salida a obtener debería ser así:
 
 Código ASCII de A es 65
+
 Código ASCII de B es 66
+
 ...
 
 
