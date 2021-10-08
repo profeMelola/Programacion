@@ -6,9 +6,13 @@
 
 Por ejemplo:
 Si la cadena es "Java", el resultado sería:
+
 J
+
 a
+
 v
+
 a
 
 #### Ejercicio 3: muestra un texto invertido
