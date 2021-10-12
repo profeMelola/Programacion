@@ -1,6 +1,15 @@
 # Módulo de Programación
 Repositorio del módulo de Programación (DAW 1A)
 
+![image](https://user-images.githubusercontent.com/91023374/137005780-b6054a28-b223-4614-a395-e57472378d84.png)
+
+
+**Aula virtual**
+
+En el aula virtual encontrarás toda la teoría asociada al módulo.
+
+https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php?id=62
+
 ## Unidades de trabajo:
 ![image](https://user-images.githubusercontent.com/91023374/133934743-b8542a8d-29b0-4f1f-b982-ce0fae00fbbf.png)
 
