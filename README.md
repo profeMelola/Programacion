@@ -7,7 +7,7 @@ Repositorio del módulo de Programación (DAW 1A)
 ## Introducción
 Este repositorio está compuesto de diferentes laboratorios propuestos por el profesor.
 
-Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplos y ejercicios con las soluciones en algunos casos.
+Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplos y ejercicios con las soluciones.
 
 ## Laboratorios
 - Primeros pasos [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
