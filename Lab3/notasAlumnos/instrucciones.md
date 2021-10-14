@@ -27,4 +27,18 @@
 - Haz los cambios pertinentes a la lógica del programa
 - Muestra la media por pantalla
 
-## Versión 4: 
+## Versión 4: para practicar más con arrays
+
+- Debes mostrar por pantalla un mensaje de texto en base a la nota media obtenida
+
+1 = Debes estudiar mucho mucho más
+2 = Debes estudiar mucho más
+3 = Debes practicar
+4 = Casi apruebas
+5 = Aprobado
+6 = Bien
+7 = Muy bien
+8 = Notable
+9 = Sobresaliente
+10 = Perfecto
+
