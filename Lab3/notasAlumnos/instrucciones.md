@@ -27,11 +27,11 @@
 - Haz los cambios pertinentes a la lógica del programa
 - Muestra la media por pantalla
 
-**¿Ves la diferencia y el beneficio de trabajar con arrays como contenedor o colección de elementos del mismo tipo?
+**¿Ves la diferencia y el beneficio de trabajar con arrays como contenedor o colección de elementos del mismo tipo?**
 
 ## Versión 4: para practicar más con arrays
 
-- Debes mostrar por pantalla un mensaje de texto en base a la nota media obtenida
+Debes mostrar por pantalla un mensaje de texto en base a la nota media obtenida
 
 1 = Debes estudiar mucho mucho más
 
