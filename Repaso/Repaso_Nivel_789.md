@@ -1,4 +1,4 @@
-# Actividades de repaso:
+# FUNCIONES:
 ## Niveles 7, 8 y 9
 
 ### Nivel 7
