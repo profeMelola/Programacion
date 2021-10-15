@@ -1,4 +1,4 @@
-# Actividades de repaso:
+# BUCLES:
 ## Niveles 4, 5 y 6
 
 ### Nivel 4
