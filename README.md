@@ -22,7 +22,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 - Primeros pasos [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
 - Condicionales y bucles [Laboratorio 2](Lab2/Laboratorio2.md)
 - Funciones / métodos / Clase String [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
-- Arrays [Laboratorio 4](Lab4/Instruccines_Lab4.md)
+- Arrays [Laboratorio 4](Lab4/Instrucciones_Lab4.md.md)
 
 ........
 
