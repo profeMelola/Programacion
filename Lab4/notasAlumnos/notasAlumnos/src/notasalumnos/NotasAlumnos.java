@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author melola
  */
-public class NotasAlumnosFinal {
+public class NotasAlumnos {
 
     //Prueba declarando las variables globales. De esta forma no necesitaría pasaralas como parámetros a la función calcularMedia 
     //static double nota1,nota2,nota3,nota4,nota5,resultado;
