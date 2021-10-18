@@ -14,9 +14,11 @@ Este método debe mostrar por pantalla el contenido del array bidimensional
 
 
 **obtenerImporteTotalGastosFactura**
+
 Este método debe devolver el importe total de gastos de una factura concreta
 
 **obtenerImporteTotalFacturas**
+
 Este método debe devolver el importe total de gastos de todas las facturas
 
 ## Ejemplo de salida por consola tras la ejecución del programa
