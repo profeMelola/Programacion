@@ -58,3 +58,8 @@ Debes mostrar por pantalla un mensaje de texto en base a la nota media obtenida.
 - La nota media obtenida debes redondearla a un entero (recuerda que es un decimal). Al convertir un double a un entero se hará automáticamente ese redondeo.
 
 - En base a la nota media debes acceder al array a la posición concreta. Por ejemplo, si la nota media es 4.6 (en decimal) la posición del array será la cuarta ( 4 redondeado) y en dicha posición estará el mensaje "Casi apruebas". Ten en cuenta que las posiciones de los arrays empiezan en el 0. Por tanto la frase "Casi apruebas" estará en la posición cuarta que es el índice 3 del array
+
+
+## Versión 5: con otra clase Notas.java
+
+El proyecto quedará formado por la clase principal y una nueva clase llamada Notas.java (en el mismo paquete) que contendrá todos los métodos estáticos usados por la clase principal
