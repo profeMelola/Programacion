@@ -2,6 +2,29 @@
 ## Instrucciones
 1. Lee atentamente el enunciado del ejercicio https://github.com/profeMelola/Programacion/blob/main/Lab2/bucleAnidado/FacturasGastos/Facturas%20y%20Gastos.md
 2. Manteniendo el enunciado del programa, debes modificar la lógica del mismo para trabajar con un array bidimensional (matriz)
-3. Para ello ten en cuenta que:
+3. Para ello ten en cuenta que :
+- Necesitas crear un array de N filas (donde N es el número de facturas) y M columnas (donde M es el número de gastos por factura).
+- Recuerda que el número de facturas (N) las indicará el usuario y que el número de gastos por factura es variable (M) y también lo introducirá el usuario 
 
-- Necesitas crear un array para las facturas y cada elemento del array será a su vez un array de float con todos los gastos de la factura.
+
+## Ayuda teórica. Repaso de conceptos
+
+![image](https://user-images.githubusercontent.com/91023374/137719700-dabd81f2-f023-4302-b5d5-00d2602ecb81.png)
+
+
+**PISTAS: Declaración de un array bidimensional**
+
+// Cuando se sepa el número de facturas. Declaración del array bidimensiona
+
+float[][] facturas = new float[numFacturas][];
+
+// Todavía no se sabe el  número de gastos por factura
+
+float[] gastos = null;
+
+// Cuando se sepa el número de gastos por factura
+
+gastos = new float[numGastos];
+
+facturas[indice] = gastos; //inicializando cada posición del array de facturas con otro array.
+
