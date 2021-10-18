@@ -6,6 +6,24 @@
 - Necesitas crear un array de N filas (donde N es el número de facturas) y M columnas (donde M es el número de gastos por factura).
 - Recuerda que el número de facturas (N) las indicará el usuario y que el número de gastos por factura es variable (M) y también lo introducirá el usuario 
 
+4. Métodos nuevos que debes implementar:
+
+**imprimeFacturas**
+
+Este método debe mostrar por pantalla el contenido del array bidimensional
+
+
+**obtenerImporteTotalGastosFactura**
+Este método debe devolver el importe total de gastos de una factura concreta
+
+**obtenerImporteTotalFacturas**
+Este método debe devolver el importe total de gastos de todas las facturas
+
+## Ejemplo de salida por consola tras la ejecución del programa
+
+![image](https://user-images.githubusercontent.com/91023374/137726338-07b443a4-0d3d-4a28-adea-093e46aa3d4a.png)
+
+
 
 ## Ayuda teórica. Repaso de conceptos
 
