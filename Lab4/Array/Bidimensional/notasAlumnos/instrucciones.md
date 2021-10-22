@@ -17,7 +17,7 @@ Ahora el programa debe de realizar la carga de notas mediante lo que lea por con
 ## Mejora 2
 Ahora el programa debe preguntar al usuario el número de alumnos de los que va a guardar la nota y por cada usuario el número de notas que va a guardar.
 
-Ten en cuenta que el número de notas por usuario puede ser distinto.
+Ten en cuenta que el número de notas por alumnos puede ser distinto.
 
 
 ## Repaso de teoría asociado al ejercicio
