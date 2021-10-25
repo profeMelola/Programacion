@@ -7,3 +7,5 @@
 **Caso 1: con switch "normal"**
 
 **Caso 2: con switch con ->**
+
+A partir de la versión 12 de java
