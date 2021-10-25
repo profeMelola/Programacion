@@ -8,4 +8,9 @@
 
 **Caso 2: con switch con ->**
 
-A partir de la versión 12 de java
+A partir de la versión 12 de java.
+
+**Ejemplo**
+
+![image](https://user-images.githubusercontent.com/91023374/138682861-bff61a89-f273-4358-9b44-a0a4640db356.png)
+
