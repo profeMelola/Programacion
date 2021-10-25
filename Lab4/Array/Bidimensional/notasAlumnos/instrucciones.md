@@ -8,7 +8,7 @@ Ten en cuenta que:
 - Las notas serán decimales.
 - Dichas notas se inicializarán directamente en código, poniendo los valores que considere el programador
 - Utiliza los métodos estáticos que consideres oportuno ( por ejemplo para calcular la nota media).
-- Utiliza una clase auxiliar llamada Notas donde implementar dichos métodos.
+- Utiliza una clase auxiliar llamada Notas donde implementar dichos métodos (en el mismo paquete y protected).
 - Una vez que el programa funcione genera el .jar y ejecútalo por línea de comando para verificar que funciona.
 
 ## Mejora 1
