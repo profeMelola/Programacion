@@ -38,5 +38,6 @@ utilizar las características de los arrays para manipular el texto, lo cual pue
 manipulaciones complicadas.
 
 String s="texto de prueba";
+
 char c[]=s.toCharArray();
 
