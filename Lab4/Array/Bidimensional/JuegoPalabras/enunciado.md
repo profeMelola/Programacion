@@ -11,9 +11,16 @@ Cada  caracter de cada palabra está representado por una imagen, tal y como lo 
 Debes desarrollar un programa que:
 
 - primero construya el puzzle de letras (primera tabla).
-- después realice el cambio que se observa en la segunda tabla consistente en intercambiar dos posiciones de forma aleatoria en cada una de las columnas de la tabla 
+- después realice el cambio de caracteres. Dicho cambio consiste en intercambiar dos posiciones de forma aleatoria en cada una de las columnas de la tabla (puzzle)
+La segunda tabla de la ilustración muestra un ejemplo de dicho intercambio. Recordad que es aleatorio.
 
-La segunda tabla muestra un ejemplo de resultado.
+El usuario verá la tabla generada por el programa una vez que ha intercambiado de forma aleatoria los caracteres de las columnas.
 
-El usuario verá la tabla generada por el programa una vez que ha intercambiado de forma aleatoria los caracteres de las columnas y el usuario deberá indicar al programa que posiciones de la tabla hay que intercambiar para obtener las palabras correctas.
+El usuario deberá indicar al programa que posiciones de la tabla hay que intercambiar para obtener las palabras correctas.
+
+Para ello el programa pedirá al usuario que indique la posición inicial y posición final a intercambiar por cada fila.
+
+Finalmente mostrará la tabla resultado obtenida según lo especificado por el usuario y le dirá si ha acertado.
+
+
 
