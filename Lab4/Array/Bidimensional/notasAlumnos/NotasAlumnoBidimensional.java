@@ -52,7 +52,9 @@ public class NotasAlumnoBidimensional {
             // Obtener notas medias de cada alumno
             // Cada fila es un alumno
             for ( int i=0; i<notas.length; i++){
-                System.out.println("Nota media del alumno ["+(i+1)+"]: "+Notas.calcularMediaAlumno(notas2[i]));
+                //System.out.println("Nota media del alumno ["+(i+1)+"]: "+Notas.calcularMediaAlumno(notas2[i]));
+                
+                System.out.printf("Nota media del alumno [%d]: %.2f %n",i+1,Notas.calcularMediaAlumno(notas2[i]));
             }
         }
         
