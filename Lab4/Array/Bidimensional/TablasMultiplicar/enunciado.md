@@ -13,7 +13,6 @@ Desarrolla un programa que utilizando un array bidimensional muestre por pantall
 
 1 X 2 = 2
 
-.
 
 .
 
@@ -27,7 +26,6 @@ Desarrolla un programa que utilizando un array bidimensional muestre por pantall
 
 2 X 2 = 4
 
-.
 
 .
 
@@ -57,7 +55,6 @@ Ampliar el programa anterior para que tenga la siguiente funcionalidad:
 
 0 2 4 6 8 10 12 14 16 18 20
 
-.
 
 .
 
