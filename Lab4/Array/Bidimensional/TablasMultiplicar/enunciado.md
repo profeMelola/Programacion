@@ -78,7 +78,7 @@ La tabla del 13 es:
 
 13 X 10 =130
 
-**NOTA:**Si la tabla que pide el usuario es del 1 al 10, debe obtener el resultado de la matriz cargada con las tablas previas
+**NOTA:** Si la tabla que pide el usuario es del 1 al 10, debe obtener el resultado de la matriz cargada con las tablas previas
 
 
 
