@@ -70,4 +70,12 @@ public class Utilidades {
         
     }
     
+    protected static void mostrarTablaMultiplicarExtra(int numTabla){
+        System.out.println("Tabla del "+numTabla);
+        
+        for(int j=0;j<=10;j++)
+            System.out.println( numTabla +" x "+j+" = "+(numTabla * j));        
+    }
+    
+    
 }
