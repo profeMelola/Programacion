@@ -56,10 +56,12 @@ Ampliar el programa anterior para que tenga la siguiente funcionalidad:
 0 2 4 6 8 10 12 14 16 18 20
 
 .
-
 .
 
 0 9 18 27 36 45 54 63 72 81 90
+![1635353126277](https://user-images.githubusercontent.com/91023374/139118232-24827548-d13a-494f-ad5b-f2fd33f5c1d1.jpeg)
+
+
 
 - Si elige la opción 2, el programa pedirá la tabla que quiere ver el usuario y luego la mostrará. Por ejemplo:
 
