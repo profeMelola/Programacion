@@ -55,7 +55,6 @@ Ampliar el programa anterior para que tenga la siguiente funcionalidad:
 
 0 2 4 6 8 10 12 14 16 18 20
 
-
 .
 
 .
@@ -76,7 +75,6 @@ La tabla del 13 es:
 
 .
 
-.
 
 13 X 10 =130
 
