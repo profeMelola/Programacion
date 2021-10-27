@@ -34,12 +34,11 @@ public class TablasMultiplicarArrays {
                     break;
                 case 2:
                     int numTabla=pideTabla();
-                    
-                    if (numTabla >=1 || numTabla <=10){
+
+                    if (numTabla >=1 && numTabla <=10)
                         Utilidades.mostrarTablaMultiplicar(tablas, numTabla);
-                    }else
-                        System.out.println("otra cosa");
-                    
+                    else
+                        Utilidades.mostrarTablaMultiplicarExtra(numTabla);
                     
                     break;
                 case 3:
