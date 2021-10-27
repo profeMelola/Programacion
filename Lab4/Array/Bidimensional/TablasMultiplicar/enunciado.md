@@ -1,6 +1,6 @@
 # Tablas de multiplicar con Array bidimensional
 
-Desarrolla un programa que utilizando un vector bidi2ensiona2 muestre por pantalla las tablas de multiplicar del 1 al 10.4
+Desarrolla un programa que utilizando un array bidimensional muestre por pantalla las tablas de multiplicar del 1 al 10
 .
 .
 
