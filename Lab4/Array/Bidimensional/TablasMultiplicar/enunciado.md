@@ -47,11 +47,24 @@ Ampliar el programa anterior para que tenga la siguiente funcionalidad:
 
 **MENÚ TABLAS DE MULTIPLICAR:**
 1. Listar tablas de multiplicar del 1 al 10
-2. Elegir una tabla concreta que quieras ver
-3. Salir
+3. Elegir una tabla concreta que quieras ver
+4. Salir
 
 - Este menú aparecerá hasta que el usuario elija la opción 3.
-- Si elige la opción 1, aparecerán todas las tablas como se ha explicado anteriormente.
+- Si elige la opción 1, aparecerán todas las tablas como se ha explicado anteriormente. Además debe aparecer la tabla en formato matriz. Por ejemplo:
+
+0 1 2 3 4 5 6 7 8 9 10
+
+0 2 4 6 8 10 12 14 16 18 20
+
+.
+
+.
+
+.
+
+0 9 18 27 36 45 54 63 72 81 90
+
 - Si elige la opción 2, el programa pedirá la tabla que quiere ver el usuario y luego la mostrará. Por ejemplo:
 
 ¿Qué tabla quieres ver?
@@ -68,11 +81,9 @@ La tabla del 13 es:
 
 .
 
-.
-
 13 X 10 =130
 
-
+**NOTA:**Si la tabla que pide el usuario es del 1 al 10, debe obtener el resultado de la matriz cargada con las tablas previas
 
 
 
