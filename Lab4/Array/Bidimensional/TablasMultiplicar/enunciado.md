@@ -82,6 +82,11 @@ La tabla del 13 es:
 
 **NOTA:** Si la tabla que pide el usuario es del 1 al 10, debe obtener el resultado de la matriz cargada con las tablas previas
 
+# PARA VIERNES 19 DE OCTUBRE
+Nuevo método llamado copiarTablas que reciba dos parámetros:
+- primer parámetro: tablas bidimensional (matriz de tablas de multiplicar)
+- segundo parámetro: matriz donde copiar (destino)
+- 
 
 
 
