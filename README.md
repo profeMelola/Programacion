@@ -32,7 +32,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 #### Repaso - Funciones [Repaso nivel 7,8 y 9](Repaso/Repaso_Funciones_Nivel_789.md)
 #### Repaso - Arrays [Repaso nivel 10,11 y 12](Repaso/Repaso_Arrays_Nivel_10_11_12.md)
 #### Repaso - Strings [Repaso nivel 13](Repaso/Repaso_Strings_Nivel_13.md)
-#### Repaso - Matrices [Repaso nivel 14](Repaso/Repaso_Strings_Nivel_14.md)
+#### Repaso - Matrices [Repaso nivel 14](Repaso/Repaso_matrices_Nivel_14.md)
 
 
 ## Licencia
