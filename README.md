@@ -27,10 +27,13 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 ........
 
 ## Actividades de repaso grupales (varios laboratorios)
-#### Repaso laboratorio 1 (Primeros conceptos) [Repaso nivel 1,2 y 3](Repaso/Repaso_Nivel_123.md)
-#### Repaso laboratorio 2 (Bucles) [Repaso nivel 4,5 y 6](Repaso/Repaso_Bucles_Nivel_456.md)
-#### Repaso laboratorio 3 (Funciones) [Repaso nivel 7,8 y 9](Repaso/Repaso_Funciones_Nivel_789.md)
-#### Repaso laboratorio 4 (Arrays) [Repaso nivel 10,11 y 12](Repaso/Repaso_Arrays_Nivel_10_11_12.md)
+#### Repaso - Primeros conceptos [Repaso nivel 1,2 y 3](Repaso/Repaso_Nivel_123.md)
+#### Repaso - Bucles [Repaso nivel 4,5 y 6](Repaso/Repaso_Bucles_Nivel_456.md)
+#### Repaso - Funciones [Repaso nivel 7,8 y 9](Repaso/Repaso_Funciones_Nivel_789.md)
+#### Repaso - Arrays [Repaso nivel 10,11 y 12](Repaso/Repaso_Arrays_Nivel_10_11_12.md)
+#### Repaso - Strings [Repaso nivel 13](Repaso/Repaso_Strings_Nivel_13.md)
+
+
 
 ## Licencia
 
