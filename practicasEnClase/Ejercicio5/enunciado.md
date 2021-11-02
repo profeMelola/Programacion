@@ -17,7 +17,7 @@ La sucesión comienza con los números 0 y 1, a partir de estos, *cada término 
 
 # Curiosidades
 
-"Fibonacci, el matemático que se puso a contar conejos y descubrió la secuencia divina"
+**Fibonacci, el matemático que se puso a contar conejos y descubrió la secuencia divina**
 
 ![image](https://user-images.githubusercontent.com/91023374/139578621-aa492d7f-551d-428b-aa87-703bb3c26950.png)
 
