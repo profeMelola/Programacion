@@ -1,7 +1,7 @@
 # Cálculo de múltiplos
 
 ## Caso 1
-Muestra por consola el número de múltiplos de 7 entre 1 y 100
+Muestra por consola los múltiplos y el número de múltiplos de 7 entre 1 y 100
 
 ## Caso 2
 Modifica el programa anterior con un método que calcule el número de múltiplos.
