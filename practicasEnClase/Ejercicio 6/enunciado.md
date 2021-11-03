@@ -16,7 +16,7 @@ Utiliza el método showInputDialog de JOptionPane para pedir el múltiplo y para
 
 Utiliza el método showMessageDialog para mostrar el número de múltiplos
 
-** Repaso de teoría **
+**Repaso de teoría**
 Será necesario repasar la clase JOptionPane
 
 Será necesario repasar las clases envoltorio y la conversión de tipos (de String a entero)
