@@ -1,4 +1,4 @@
-# Factorial
+# Factorial (este ejercicio está también en Programacion/Recursividad)
 
 Programa que pide al usuario una serie de números naturales y de como resultado el factorial de cada uno de ellos.
 
