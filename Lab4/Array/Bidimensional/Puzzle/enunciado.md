@@ -6,6 +6,8 @@ La condición es que todas las palabras de la lista tengan el mismo número de l
 
 ![image](https://user-images.githubusercontent.com/91023374/138914319-ee9cf0d9-675a-46bf-8502-226334b13f69.png)
 
+**NOTA:** La palabra Garro es Garra (errata)
+
 En este caso tenemos 5 palabras, cada una de 5 caracteres.
 
 Cada  caracter de cada palabra está representado por una imagen, tal y como lo puedes observar en la primera tabla.
