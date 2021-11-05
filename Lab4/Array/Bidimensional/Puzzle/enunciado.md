@@ -34,3 +34,8 @@ Finalmente mostrará la tabla resultado obtenida según lo especificado por el u
 ![image](https://user-images.githubusercontent.com/91023374/140512569-f6436c07-3de7-4a6f-a4a6-bc587e60df7b.png)
 
 
+## Ejemplo de salida del programa con un primer intento
+
+![image](https://user-images.githubusercontent.com/91023374/140527407-ba6df9ef-589f-4530-b696-b8508df60b97.png)
+
+
