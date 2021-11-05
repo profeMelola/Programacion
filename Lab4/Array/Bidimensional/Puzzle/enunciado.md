@@ -31,10 +31,6 @@ Finalmente mostrará la tabla resultado obtenida según lo especificado por el u
 
 **Recopilando, la aplicación deberá:**
 
-- "desordenar" algunas letras de la siguiente forma Para cada una de las columnas de la matriz que es nuestro puzzle intercambiará dos posiciones (solo 2) de forma aleatoria.
+![image](https://user-images.githubusercontent.com/91023374/140512569-f6436c07-3de7-4a6f-a4a6-bc587e60df7b.png)
 
--  Después daremos al usuario la oportunidad de volver a colocar el puzzle para que acierte las palabras originales, de forma que le preguntaremos la columna sobre la que va a realizar el intercambio y las dos posiciones que quiere intercambiar en esa columna. 
 
-- Cada vez que el usuario haga un cambio, la apliación comprobará si la solución es correcta.
-
-- El número de oportunidades que le damos al usuario es infinito. Hasta que encuentre la solución
