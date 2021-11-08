@@ -61,7 +61,7 @@ usuario V, I además de N (nº de valores a crear).
 valores: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, etc. hasta introducir 10 diez veces, y luego la
 muestre por pantalla.
 
-## Nivel 12: Utiliza los métodos de la clase 'Arrays' pra ayudarte a resolver los siguientes ejercicios
+## Nivel 12: Utiliza los métodos de la clase 'Arrays' para ayudarte a resolver los siguientes ejercicios
 
 15. Crea un programa que pida la usuario dos valores N y M y luego cree un array de tamaño N
 que contenga M en todas sus posiciones. Luego muestra el array por pantalla.
