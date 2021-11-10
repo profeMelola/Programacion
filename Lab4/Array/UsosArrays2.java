@@ -1,3 +1,11 @@
+/*
+ * Clase para practicar con métodos de la clase Arrays:
+ * clone() de vectores (array unidemensional) y matrices (array bidimensional)
+ * equals()
+ * compare() (no se compara con equals ni compare matrices bidimensionales!!!!)
+ * 
+ */
+ 
 public class UsosArrays2 {
 
     /**
