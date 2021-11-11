@@ -1,7 +1,12 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+Realiza un programa que lea de consola una secuencia de números enteros positivos de un dígito introducidos por el usuario hasta que escriba un cero. Si el usuario escribe por consola un número de más de un dígito debe recibir un aviso para que introduzca el número correctamente, pero el programa no debe parar (3 puntos)
+
+Luego debe mostrar por consola tres cosas:
+
+El resultado de sumar todos los números introducidos múltiplos de 3. (2 puntos)
+La cantidad de números múltiplos de 3. (2 punto)
+Los números introducidos por el usuario en orden inverso. (3 puntos)
+*/
 package pruebaevaluable1;
 
 import java.util.Arrays;
