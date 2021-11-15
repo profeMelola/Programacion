@@ -29,6 +29,9 @@ public class NotasAlumnosMejora3 {
         
         System.out.println("***** NOTA MEDIA\n"+Notas.obtenerNotaMediaAlumno(notasAlumnos, sc));
         
+        Notas.obtenerTodasLasNotasMedias(notasAlumnos);
+        
+        
     }
     
 }

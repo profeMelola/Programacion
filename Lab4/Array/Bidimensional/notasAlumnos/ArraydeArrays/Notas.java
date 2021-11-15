@@ -47,6 +47,21 @@ public class Notas {
         
         double[] notas = notasAlumnos[numAlumno - 1];
         
+        return obtenerMedia(notas);
+    }
+    
+    public static void obtenerTodasLasNotasMedias(double[][] notasAlumnos){
+        //cada fila es un array con las notas de cada alumno
+        for(int i=0; i< notasAlumnos.length; i++){
+            double[] notasAlumno = notasAlumnos[i];
+            double media = obtenerMedia(notasAlumno);
+            //System.out.println("* Nota media del alumno <"+(i+1)+"> es: "+media);
+            System.out.printf("* Nota media del alumno <%d> es %.2f%n ",i+1,media);
+        }
+    }
+
+    public static double obtenerMedia(double[] notas){
+        
         double media,suma = 0;
         //así recorro las notas de cada alumno y las sumo
         for (int i=0; i< notas.length; i++){
@@ -58,5 +73,4 @@ public class Notas {
         return media;
         
     }
-
 }
