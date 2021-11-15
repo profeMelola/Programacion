@@ -15,7 +15,7 @@ Ten en cuenta que:
 Ahora el programa debe de realizar la carga de notas mediante lo que lea por consola.
 
 ## Mejora 2
-Ahora el programa debe preguntar al usuario el número de alumnos de los que va a guardar la nota y por cada usuario el número de notas que va a guardar.
+Ahora el programa debe preguntar al usuario el número de alumnos de los que va a guardar la nota y por cada alumno el número de notas que va a guardar.
 
 Ten en cuenta que el número de notas por alumnos puede ser distinto.
 
