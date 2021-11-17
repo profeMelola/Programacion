@@ -23,6 +23,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 - Condicionales y bucles [Laboratorio 2](Lab2/Laboratorio2.md)
 - Funciones / métodos / Clase String [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
 - Arrays [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
+- Programación Orientada a Objetos [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
 
 ........
 
