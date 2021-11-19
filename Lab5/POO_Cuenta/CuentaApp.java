@@ -2,7 +2,7 @@ public class CuentaApp {
  
     public static void main(String[] args) {
          
-        Cuenta cuenta_1 = new Cuenta("DiscoDurodeRoer");
+        Cuenta cuenta_1 = new Cuenta("DAW1A");
         Cuenta cuenta_2 = new Cuenta("Fernando", 300);
          
         //Ingresa dinero en las cuentas
