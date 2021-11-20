@@ -13,9 +13,9 @@
   
   Factura número 1:
   
-       - Gasto 1: 100 euros
+       - Gasto 1: 23 euros
        
-       - Gasto 2: 23 euros
+       - Gasto 2: 100 euros
        
        - Gasto 3: 12,5 euros
        
@@ -24,6 +24,14 @@
        - Gasto 1: 34,68 euros
        
        - Gasto 2: 2 euros
+   
+   La factura 1 tiene un total de 3 gastos desglosados por orden descendente:
+   
+       - Gasto 1: 100 euros
+       
+       - Gasto 2: 23 euros
+       
+       - Gasto 3: 12,5 euros
  
    RESULTADO OBTENIDO POR EL PROGRAMA:
    
