@@ -9,7 +9,7 @@ La clase Alumno tiene como atributos:
 
 Es obligatorio indicar el nombre y primer apellido. El segundo apellido es opcional.
 
-La matriz de notas se inicializará por su correspondiente método set. La nota final se calculará con un método correspondiente. Este método sumará las 3 notas de las 3 evaluaciones y calculará la nota media guardando ese valor en la última posición del vector.
+La matriz de notas se inicializará por su correspondiente método set. La nota final de cada módulo se calculará con un método correspondiente. Este método sumará las 3 notas de las 3 evaluaciones y calculará la nota media guardando ese valor en la última posición del vector.
 
 **Métodos**
 
