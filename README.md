@@ -19,11 +19,11 @@ Este repositorio está compuesto de diferentes laboratorios propuestos por el pr
 Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplos y ejercicios con las soluciones.
 
 ## Laboratorios
-- Primeros pasos [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
-- Condicionales y bucles [Laboratorio 2](Lab2/Laboratorio2.md)
-- Funciones / métodos / Clase String [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
-- Arrays [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
-- Programación Orientada a Objetos [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
+- Primeros pasos (Temas 1 y 2 del aula virtual) [Laboratorio 1](Lab1/Instrucciones_Lab1.md)
+- Condicionales y bucles (Tema 3 del aula virtual) [Laboratorio 2](Lab2/Laboratorio2.md)
+- Funciones / métodos / Clase String (Tema 4 y 5 del aula virtual) [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
+- Arrays (Tema 5 del aula virtual) [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
+- Programación Orientada a Objetos (Tema 6 del aula virtual) [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
 
 ........
 
