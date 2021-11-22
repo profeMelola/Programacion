@@ -15,6 +15,7 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 
 - *Constructores* acordes al enunciado.
 - *Setting & gettings* correspondientes.
+- *toString()* sobreescrito.
 - *mostrarNotas():* muestra la matriz de notas (notas de todos los alumnos)
 - *mostrarNotasModulo(int modulo):* muestra el array con las notas del módulo especificado.
 - *mostrarNotasOrdenadas(int modulo):* muestra notas ordenadas de un módulo concreto.
