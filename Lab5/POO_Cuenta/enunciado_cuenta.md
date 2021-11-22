@@ -14,3 +14,18 @@ Tendrá dos métodos especiales:
 
 - ingresar(double cantidad): se ingresa una cantidad a la cuenta, si la cantidad introducida es negativa, no se hará nada.
 - retirar(double cantidad): se retira una cantidad a la cuenta, si restando la cantidad actual a la que nos pasan es negativa, la cantidad de la cuenta pasa a ser 0.
+
+# Ampliación
+
+Crea una clase llamada Banco cuyo nombre será obligatorio y el número de clientes opcional. 
+
+Además dicha clase contendrá una lista (array) de Cuentas, tantas como clientes se den de alta. 
+
+Crea los constructores y método setting y getting adecuados.
+
+Las cuentas de los clientes se crearán tal y como se ha implementado en el enunciado inicial del producto.
+
+
+
+
+
