@@ -18,7 +18,7 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 - *toString()* sobreescrito.
 - *mostrarNotas():* muestra la matriz de notas (notas de todos los alumnos)
 - *mostrarNotasModulo(int modulo):* muestra el array con las notas del módulo especificado.
-- *mostrarNotasOrdenadas(int modulo):* muestra notas ordenadas de un módulo concreto.
+- *mostrarNotasOrdenadas(int modulo):* muestra notas ordenadas por defectode un módulo concreto.
 - *calcularNotaFinal(int modulo):* calcula la nota final en base a la nota de las 3 evaluaciones y la carga en la posición última de cada fila.
 - *calcularNotaFinal():* calcula la nota final de todos los módulos
 
