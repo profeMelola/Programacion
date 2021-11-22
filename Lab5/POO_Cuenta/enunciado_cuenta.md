@@ -21,9 +21,9 @@ Crea una clase llamada Banco cuyo nombre será obligatorio y el número de clien
 
 Además dicha clase contendrá una lista (array) de Cuentas, tantas como clientes se den de alta. 
 
-Crea los constructores y método setting y getting adecuados.
+Crea los constructores y métodos setting y getting adecuados.
 
-Las cuentas de los clientes se crearán tal y como se ha implementado en el enunciado inicial del producto.
+Las cuentas de los clientes (objetos instanciados de la clase Cuenta) se crearán tal y como se ha implementado en el enunciado inicial del producto.
 
 
 
