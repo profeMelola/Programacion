@@ -13,12 +13,12 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 
 **Métodos a implementar**
 
-- Constructores acordes al enunciado.
-- Setting & gettings correspondientes.
-- mostrarNotas() : muestra la matriz de notas (notas de todos los alumnos)
-- mostrarNotasModulo(int modulo): muestra el array con las notas del módulo especificado.
-- mostrarNotasOrdenadas(int modulo): muestra notas ordenadas de un módulo concreto.
-- calcularNotaFinal(int modulo): calcula la nota final en base a la nota de las 3 evaluaciones y la carga en la posición última de cada fila.
-- calcularNotaFinal(): calcula la nota final de todos los módulos
+- *Constructores* acordes al enunciado.
+- *Setting & gettings* correspondientes.
+- *mostrarNotas():* muestra la matriz de notas (notas de todos los alumnos)
+- *mostrarNotasModulo(int modulo):* muestra el array con las notas del módulo especificado.
+- *mostrarNotasOrdenadas(int modulo):* muestra notas ordenadas de un módulo concreto.
+- *calcularNotaFinal(int modulo):* calcula la nota final en base a la nota de las 3 evaluaciones y la carga en la posición última de cada fila.
+- *calcularNotaFinal():* calcula la nota final de todos los módulos
 
 
