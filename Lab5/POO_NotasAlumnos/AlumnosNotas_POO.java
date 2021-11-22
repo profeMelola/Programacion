@@ -1,6 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+/**
+ * La clase alumnos tiene como atributos: nombre, apellido1, apellido2, matriz de notas
+ * Es obligatorio indicar el nombre y primer apellido. El segundo apellido es opcional
+ * La matriz de notas se inicializará por su correspondiente método set
  */
 package alumnosnotas_poo;
 
@@ -26,9 +27,21 @@ public class AlumnosNotas_POO {
         System.out.println("NOTAS DEL ALUMNO 2");
         alumno2.mostrarNotas();
         
-        alumno2.ordenarNotas(1);
-        System.out.println("NOTAS ORDENADAS DEL MÓDULO 2, DEL ALUMNO 2 ");
+        System.out.println("NOTAS DEL MÓDULO 1, DEL ALUMNO 2:");
         alumno2.mostrarNotasModulo(1);
+        
+        System.out.println("NOTAS ORDENADAS DEL MÓDULO 1, DEL ALUMNO 2:");
+        alumno2.mostrarNotasOrdenadas(1);
+        
+        System.out.println("NOTA FINAL DEL MÓDULO 1, DEL ALUMNO 2:");
+        alumno2.calcularNotaFinal(1);
+        alumno2.mostrarNotasModulo(1);
+        
+        System.out.println("NOTAS FINALES DE TODOS LOS MÓDULOS, DEL ALUMNO 2:");
+        alumno2.calcularNotaFinal();
+        alumno2.mostrarNotas();
+        
+        
         
     }
     
