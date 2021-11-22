@@ -1,6 +1,6 @@
 # Enunciado
 
-La clase alumnos tiene como atributos: 
+La clase Alumno tiene como atributos: 
 
 - nombre
 - apellido1
