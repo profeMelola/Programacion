@@ -22,8 +22,9 @@ public class Alumno {
         this.nombre = "";
         this.apellido1 = "";
         this.apellido2 = "";
-        this.notasModulos = new int[1][1];
-        notasModulos[0][0] = 0;
+        //this.notasModulos = new int[1][1];
+        //notasModulos[0][0] = 0;
+        this.notasModulos = null;
     }
 
     //obligatorio
