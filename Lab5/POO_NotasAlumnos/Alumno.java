@@ -34,7 +34,7 @@ public class Alumno {
         this(nombre, apellido1, "");
     }
 
-    public Alumno(String nombre, String apellido1, String apellido) {
+    public Alumno(String nombre, String apellido1, String apellido2) {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
