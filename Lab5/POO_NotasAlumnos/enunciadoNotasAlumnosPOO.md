@@ -25,7 +25,10 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 **En la clase ejecutable**
 Cread un objeto Alumno.
 
-Cread una matriz de notas sin pedir datos por consola. Por ejemplo:
+Cread una matriz de notas sin pedir datos por consola. 
+
+Por ejemplo:
+
 int[][] notasAlum = {{5,4,6,0},{8,5,7,0},{1,2,3,0},{7,8,9,0},{5,4,6,0},{8,5,7,0}};
 
 
