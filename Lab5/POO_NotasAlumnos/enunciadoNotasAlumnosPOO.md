@@ -11,8 +11,14 @@ Es obligatorio indicar el nombre y primer apellido. El segundo apellido es opcio
 
 La matriz de notas se inicializará por su correspondiente método set. La nota final de cada módulo se calculará con un método correspondiente. Este método sumará las 3 notas de las 3 evaluaciones y calculará la nota media guardando ese valor en la última posición del vector.
 
-**Métodos**
+**Métodos a implementar**
 
-![image](https://user-images.githubusercontent.com/91023374/142852795-498c8c26-9f04-4257-a5f5-865c2c4b9bd3.png)
+- Constructores acordes al enunciado.
+- Setting & gettings correspondientes.
+- mostrarNotas() : muestra la matriz de notas (notas de todos los alumnos)
+- mostrarNotasModulo(int modulo): muestra el array con las notas del módulo especificado.
+- mostrarNotasOrdenadas(int modulo): muestra notas ordenadas de un módulo concreto.
+- calcularNotaFinal(int modulo): calcula la nota final en base a la nota de las 3 evaluaciones y la carga en la posición última de cada fila.
+- calcularNotaFinal(): calcula la nota final de todos los módulos
 
 
