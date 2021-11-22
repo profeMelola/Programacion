@@ -20,6 +20,13 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 - *mostrarNotasModulo(int modulo):* muestra el array con las notas del módulo especificado.
 - *mostrarNotasOrdenadas(int modulo):* muestra notas ordenadas por defectode un módulo concreto.
 - *calcularNotaFinal(int modulo):* calcula la nota final en base a la nota de las 3 evaluaciones y la carga en la posición última de cada fila.
-- *calcularNotaFinal():* calcula la nota final de todos los módulos
+- *calcularNotaFinal():* calcula la nota final de todos los módulos.
+
+**En la clase ejecutable**
+Cread un objeto Alumno.
+
+Cread una matriz de notas sin pedir datos por consola. Por ejemplo:
+int[][] notasAlum = {{5,4,6,0},{8,5,7,0},{1,2,3,0},{7,8,9,0},{5,4,6,0},{8,5,7,0}};
+
 
 
