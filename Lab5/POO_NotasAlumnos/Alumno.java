@@ -18,14 +18,14 @@ public class Alumno {
     private int[][] notasModulos; 
 
     // CONSTRUCTORES
-    public Alumno(){
+    /*public Alumno(){
         this.nombre = "";
         this.apellido1 = "";
         this.apellido2 = "";
         //this.notasModulos = new int[1][1];
         //notasModulos[0][0] = 0;
         this.notasModulos = null;
-    }
+    }*/
 
     //obligatorio
     public Alumno(String nombre, String apellido1) {
@@ -38,6 +38,7 @@ public class Alumno {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
+        this.notasModulos = null;
     }
     
     
