@@ -23,6 +23,7 @@ La matriz de notas se inicializará por su correspondiente método set. La nota 
 - *calcularNotaFinal():* calcula la nota final de todos los módulos.
 
 **En la clase ejecutable**
+
 Cread un objeto Alumno.
 
 Cread una matriz de notas sin pedir datos por consola. 
