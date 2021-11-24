@@ -77,6 +77,7 @@ public class Alumno {
     }
 
     
+    // OTROS MÉTODOS
     public void mostrarNotas(){
         for (int i=0; i< notasModulos.length; i++){
             System.out.println(Arrays.toString(notasModulos[i]));
