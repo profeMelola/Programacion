@@ -21,3 +21,6 @@ Debes de utilizar un array de 3 filas (uno por cada nivel) y cada fila contendr�
 - **mostrarNotasPorNivelOrdenadasDesc** Método para ordenar notas por nivel y mostrarlas por pantalla en orden descendente.
 - **obtenerMejorNotaTodosNiveles** Método para mostrarla mejor nota de cada nivel.
 
+## Ejemplo de salida por consola
+
+![image](https://user-images.githubusercontent.com/91023374/143240973-09a0705e-7055-466a-a8ba-141a2ac84517.png)
