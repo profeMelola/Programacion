@@ -12,7 +12,7 @@ Por cada nivel el número de concursantes inscritos ha sido:
 - Nivel Medio: 4 concursantes.
 - Nivel Alto: 5 concursantes.
 
-El programa debe permitir introducir al examinador las notas finales de cada concursante.
+El programa debe permitir introducir al examinador las notas finales de cada concursante (nota final decimal).
 
 Debes de utilizar un array de 3 filas (uno por cada nivel) y cada fila contendrá un array acorde al número de concursantes por nivel.
 
