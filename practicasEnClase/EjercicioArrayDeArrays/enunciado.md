@@ -17,7 +17,7 @@ El programa debe permitir introducir al examinador las notas finales de cada con
 Debes de utilizar un array de 3 filas (uno por cada nivel) y cada fila contendrá un array acorde al número de concursantes por nivel.
 
 ### Métodos que debes implementar
-- Método para meter notas de todos los concursantes.
-- Método para ordenar notas por nivel y mostrarlas por pantalla en orden descendente.
-- Método para obtener el ganador de cada categoría (concursante 1, concursante 2 etc... el número de concursante lo dará su posición en el array)
+- **registrarNotasConcursantes:** Método para meter notas de todos los concursantes.
+- **mostrarNotasPorNivelOrdenadasDesc** Método para ordenar notas por nivel y mostrarlas por pantalla en orden descendente.
+- **obtenerGanadoresTodasCategorías** Método para obtener el ganador de cada categoría (concursante 1, concursante 2 etc... el número de concursante lo dará su posición en el array)
 
