@@ -27,16 +27,25 @@ Por otro lado, cada uno de los coches de segunda mano pertenecerá a un concesio
 **ATRIBUTOS**
 Un coche estará compuesto de:
 
-- Identificador: de tipo String.
-- Nombre.
-- Localidad.
-- Teléfono.
-- Nombre completo de la persona de contacto del concesionario.
+- Concesionario al que pertenece.
+- Matricula
+- Número de puertas
+- Marca
+- Kilómetros
+- Precio
 
 **CONSTRUCTOR**
+Podemos dar de alta un coche de tres formas:
+
+- Con todas sus propiedades o atributos.
+- Con solo el concesionario, matrícula y precio.
+- Con solo el concesionario y la matrícula: en este caso habrá que calcular el precio por defecto del coche en base a la matrícula.
 
 **GETTERS & SETTERS**
+Debemos permitir que se modifique todos los datos del coche excepto la matrícula.
+
+**OTROS MÉTODOS**
+Al precio de un coche se podrá aplicar un descuento.
 
 **OVERRRIDE TOSTRING()**
-
-
+Es necesario mostrar toda la información del coche.
