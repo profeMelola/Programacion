@@ -13,18 +13,23 @@ La información necesaria de cada concesionario es:
 - Nombre completo de la persona de contacto del concesionario.
 
 **CONSTRUCTOR**
+
 Obligatoriamente hay que especificar todos los datos antes descritos.
 
 **GETTERS & SETTERS**
+
 Debemos permitir con todos los datos se puedan modificar, salvo el identificador del concesionario.
 
 **OVERRRIDE TOSTRING()**
+
 Es necesario mostrar toda la información del concesionario en este método.
 
 ## Clase Coche
+
 Por otro lado, cada uno de los coches de segunda mano pertenecerá a un concesionario.
 
 **ATRIBUTOS**
+
 Un coche estará compuesto de:
 
 - Concesionario al que pertenece.
@@ -35,6 +40,7 @@ Un coche estará compuesto de:
 - Precio
 
 **CONSTRUCTOR**
+
 Podemos dar de alta un coche de tres formas:
 
 - Con todas sus propiedades o atributos.
@@ -42,10 +48,13 @@ Podemos dar de alta un coche de tres formas:
 - Con solo el concesionario y la matrícula: en este caso habrá que calcular el precio por defecto del coche en base a la matrícula.
 
 **GETTERS & SETTERS**
+
 Debemos permitir que se modifique todos los datos del coche excepto la matrícula.
 
 **OTROS MÉTODOS**
+
 Al precio de un coche se podrá aplicar un descuento.
 
 **OVERRRIDE TOSTRING()**
+
 Es necesario mostrar toda la información del coche.
