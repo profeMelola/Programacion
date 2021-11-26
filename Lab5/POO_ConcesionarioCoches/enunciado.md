@@ -21,7 +21,7 @@ Obligatoriamente hay que especificar todos los datos antes descritos.
 
 **GETTERS & SETTERS**
 
-Debemos permitir con todos los datos se puedan modificar, salvo el identificador del concesionario.
+Debemos permitir que se puedan modificar todos los datos salvo el identificador del concesionario.
 
 **OVERRRIDE TOSTRING()**
 
