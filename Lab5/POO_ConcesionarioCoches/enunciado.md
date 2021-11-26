@@ -2,6 +2,9 @@
 
 Debemos desarrollar un programa para la gestión de coches de segunda mano de una multinacional que los tiene distribuidos en diferentes concesionarios.
 
+![image](https://user-images.githubusercontent.com/91023374/143604182-a37ac9e9-896b-4dc8-91ee-e6fc2a8bbe21.png)
+
+
 ## Clase Concesionario
 **ATRIBUTOS**
 La información necesaria de cada concesionario es:
