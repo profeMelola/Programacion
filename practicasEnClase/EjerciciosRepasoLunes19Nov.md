@@ -35,7 +35,11 @@ Sexo sera hombre por defecto, usa una constante para ello.
 - **esMayorDeEdad():** indica si es mayor de edad, devuelve un booleano.
 - **comprobarSexo(char sexo):** comprueba que el sexo introducido es correcto. Si no es correcto, sera H. No sera visible al exterior.
 - **toString():** devuelve toda la información del objeto.
-- **generaDNI():** genera un número aleatorio de 8 cifras, genera a partir de este su número su letra correspondiente. Este método sera invocado cuando se construya el objeto. Puedes dividir el método para que te sea más fácil. No será visible al exterior.
+- **generaDNI():** genera un número aleatorio de 8 cifras, genera a partir de este su número su letra correspondiente. Este método sera invocado cuando se construya el objeto.  No será visible al exterior.
+
+![image](https://user-images.githubusercontent.com/91023374/143777913-c2579750-0580-4df4-bcde-358b05c94b6a.png)
+
+
 
 ### Métodos set de cada parámetro, excepto de DNI.
 
