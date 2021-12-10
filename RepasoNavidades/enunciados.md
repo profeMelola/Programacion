@@ -133,11 +133,11 @@ En una ronda se hacen3 tiradas (cada una de tres bolas).
 
 Calcula la puntuación de la ronda.
 
-Calificación del ejercicio:
+**Calificación del ejercicio:**
 
 Se valorará para conseguir la puntuación máxima de cada apartado (orientación a objetos, encapsulado de variables y métodos, comentarios en el código)
 
-Completar el ejercicio, de forma que nos muestre por pantalla el resultado  de la primera tirada: 2 puntos
+### Completar el ejercicio, de forma que nos muestre por pantalla el resultado  de la primera tirada.
 
 RESULTADO DE LA TIRADA: 1
 
