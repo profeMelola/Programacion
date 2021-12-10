@@ -32,9 +32,13 @@ Una vez introducidos los gastos de cada factura, el programa debe mostrar un MEN
 **Deberías poder realizar este ejercicio en 1h 30 minutos**
 
 # Ejercicio similar: gestión de notas de alumnos
+
 https://github.com/profeMelola/Programacion/blob/main/Lab4/Array/Bidimensional/notasAlumnos/instrucciones.md
 
 https://github.com/profeMelola/Programacion/blob/main/Lab4/Array/Bidimensional/notasAlumnos/ArraydeArrays/enunciado.md
+
+https://github.com/profeMelola/Programacion/blob/main/practicasEnClase/EjercicioArrayDeArrays/enunciado.md
+
 
 # Ejercicio 2: POO
 
