@@ -36,4 +36,65 @@ https://github.com/profeMelola/Programacion/blob/main/Lab4/Array/Bidimensional/n
 
 https://github.com/profeMelola/Programacion/blob/main/Lab4/Array/Bidimensional/notasAlumnos/ArraydeArrays/enunciado.md
 
+# Ejercicio 2: POO
+
+## Enunciado
+
+Debes desarrollar un programa para crear cuentas de usuario. 
+
+Para ello implementa dos clases, una llamada User y otra llamada Password,  que cumplan los siguientes requisitos:
+
+### Clase Password
+
+Estará compuesta por:
+
+- longitud: todas las password tendrán una longitud mínima de 6 caracteres.
+- contraseña: cadena de texto.
+
+Se podrán crear objetos Password de dos formas:
+
+- Por defecto sin indicar la contraseña. En este caso el programa generará automáticamente  la contraseña.
+- Indicando la contraseña. En este caso habrá que validar que dicha contraseña es fuerte. Si no es fuerte el usuario recibirá un aviso  y el programa terminará.
+
+No podrá modificarse la contraseña una vez creado el objeto.
+
+En base a lo descrito, la clase por tanto tendrá además dos métodos:
+
+**esFuerte:** método para comprobar que la contraseña introducida es fuerte. Para que sea fuerte  la contraseña se deben cumplir las siguiente condiciones: 
+- empezar con una vocal en mayúsculas
+- acabar con uno de estos tres carácteres $  &  * 
+- contener exactamente el texto  DAW en cualquier parte de la contraseña.
+- como mínimo una longitud de 6
+
+Cuando no se cumpla alguna condición se mostrará un mensaje por consola indicando al usuario las condiciones que no se cumplen en su contraseña. 
+
+**generarPassword:**  método que genera una contraseña automáticamente y de forma aleatoria. Lógicamente la contraseña generada automáticamente cumplirá las condiciones para que sea fuerte. 
+
+
+## Clase User
+
+Estará compuesta por:
+
+- login: cade de texto.
+- pwd: objeto tipo Password.
+
+Se podrán crear objetos Login especificando el login, siendo pwd opcional. En este caso, si no se especifica pw se creará una por defecto.
+
+No podrá modificarse ni el login ni el pwd.
+
+## Clase principal ejecutable
+
+Debes programar el menú para que el usuario pueda introducir los datos con los que se crearán los correspondientes objetos Password y User. 
+
+Al ejecutar el programa debe mostrarse dicho menú y una vez creada la cuenta debe cerrarse el programa.
+
+Crea objetos en base a los diferentes casos de prueba:
+
+- No se indica contraseña por tanto se crea una por defecto. 
+- Se indica la contraseña y cumple con los requisitos de contraseña fuerte.
+- Se indica la contraseña y no cumple con algunos o todos los requisitos de contraseña fuerte. Se avisa al usuario de las condiciones que no cumple su contraseña.
+
+
+
+
 
