@@ -95,6 +95,6 @@ Crea objetos en base a los diferentes casos de prueba:
 - Se indica la contraseña y no cumple con algunos o todos los requisitos de contraseña fuerte. Se avisa al usuario de las condiciones que no cumple su contraseña.
 
 
-
+**Deberías poder realizar este ejercicio en 1h 15 minutos**
 
 
