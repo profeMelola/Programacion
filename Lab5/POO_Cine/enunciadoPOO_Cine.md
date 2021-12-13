@@ -1,4 +1,4 @@
-# Enunciado ejercicio
+# Enunciado ejercicio - Cine
 
 **Nos piden hacer un programa orientado a objetos sobre un cine (solo de una sala).**
 
