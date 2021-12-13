@@ -105,31 +105,37 @@ Crea objetos en base a los diferentes casos de prueba:
 # Ejercicio 3
 
 ## Juego de azar (ORIENTACIÓN A OBJETOS)
-Un juego de azar tiene  3  bolas . El funcionamiento de las bolas es el siguiente, al lanzarlas cada bola puede devolver un valor entre 0 y nueve y además en cada tirada  cada bola tiene un valor de la puntuación o premio que puede ser desde 0 a 100 puntos. 
+Un juego de azar tiene  3  bolas. 
+
+El funcionamiento de las bolas es el siguiente: al lanzarlas cada bola puede devolver un valor entre 0 y nueve y además en cada tirada  cada bola tiene un valor de la puntuación o premio que puede ser desde 0 a 100 puntos. 
 
 Se  lanzan las  tres bolas, anotando el resultado de la suma de las puntuaciones cada una, y además  y  se comprobará :
 
 Si sale dos veces la misma bola  (por ejemplo tirada = 4 4 0 )  multiplica el valor de premio  x 2.  
 
-Ejemplo: bola 1: número 4, puntuación 15.
+**Ejemplo:**
+
+                 bola 1: número 4, puntuación 15.
 
                  bola2: número 4, puntuación 26,
 
                  bola3: número 0, puntuación 100.
 
-Puntuación  (15+26+100) *2.
+                 Puntuación  (15+26+100) *2.
 
  
 
 Si sale tres veces la misma bola (por ejemplo tirada = 4 4 4)  anota el valor del premio x3.
 
-Ejemplo: bola 1: número 4, puntuación 15.
+**Ejemplo:**
+
+                 bola 1: número 4, puntuación 15.
 
                  bola2: número 4, puntuación 26,
 
                  bola3: número 4, puntuación 100.
 
-Puntuación  (15+26+100) *3.
+                 Puntuación  (15+26+100) *3.
 
  
 
@@ -153,7 +159,7 @@ El premio es 173
 
  
 
-Completar el ejercicio de forma que nos muestre por pantalla el resultado de las tres rondas: (2 puntos)
+### Completar el ejercicio de forma que nos muestre por pantalla el resultado de las tres rondas:
 
 
 
