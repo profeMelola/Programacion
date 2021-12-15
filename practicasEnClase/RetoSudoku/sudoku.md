@@ -20,6 +20,8 @@ Implementar un sudoku clásico 9x9 en java:
 
 Puedes utilizar todos los recursos Java vistos en clase este trimestre, única y exclusivamente (Clases, objetos, arrays... nada de colecciones dinámicas!!!!! )
 
+Podéis buscar por internet toda la información que consideréis necesaria, pero todos los miembros del equipo deben saber lo que se va a implementar.
+
 El trabajo debe estar repartido. Todos debéis participar.
 
 Tenéis total libertad para diseñar el Sudoku y sus reglas de juego (si se va resolviendo según el usuario va introduciendo números, si se resuelve una vez completado, si le damos más de una oportunidad etc...)
@@ -27,3 +29,11 @@ Tenéis total libertad para diseñar el Sudoku y sus reglas de juego (si se va r
 **Antes de empezar, tengamos claro qué es un Sudoku**
 
 https://aprendiendomatematicas.com/sudokus-descargables-para-ninos/
+
+
+## Entrega
+
+El programa deberá entregarse en el aula virtual y posiblemente será defendido por todos los miembros del equipo.
+
+Se irá dando más indicaciones al respecto....
+
