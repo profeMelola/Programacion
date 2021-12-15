@@ -33,6 +33,23 @@ Tenéis total libertad para diseñar el Sudoku y sus reglas de juego (si se va r
 https://aprendiendomatematicas.com/sudokus-descargables-para-ninos/
 
 
+## Pistas
+
+El profesor irá publicando pistas para ayudar a aquellos bloqueados en diferentes fases del programa... 
+
+**La próxima pista el viernes 15 de diciembre!!!**
+
+![image](https://user-images.githubusercontent.com/91023374/146194724-942f3b84-3bfc-423e-921c-34a55faa7c0b.png)
+
+
+## Comodín de ayuda
+
+Cada grupo podrá usar un comodín de ayuda a otro grupo para comparar soluciones, intercambiar información, ideas... trabajo colaborativo!!!!!
+
+![image](https://user-images.githubusercontent.com/91023374/146194475-b46eb259-438b-4293-adc1-bc4ad20c0759.png)
+
+
+
 ## Entrega
 
 El programa deberá entregarse en el aula virtual y posiblemente será defendido por todos los miembros del equipo.
