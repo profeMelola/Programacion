@@ -1,5 +1,7 @@
 # RETO: Implementa un sudoku con Java
 
+![image](https://user-images.githubusercontent.com/91023374/146168358-c31a9f0f-9413-455d-8a80-641add94fe99.png)
+
 ## Instrucciones
 
 Vamos a montar equipos según nos diga la profe.
@@ -37,6 +39,5 @@ El programa deberá entregarse en el aula virtual y posiblemente será defendido
 
 Se irá dando más indicaciones al respecto....
 
-
-![image](https://user-images.githubusercontent.com/91023374/146168358-c31a9f0f-9413-455d-8a80-641add94fe99.png)
+![image](https://user-images.githubusercontent.com/91023374/146168617-f2f5ae5a-de1d-4500-a777-7adb28c180d7.png)
 
