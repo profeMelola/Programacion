@@ -37,3 +37,6 @@ El programa deberá entregarse en el aula virtual y posiblemente será defendido
 
 Se irá dando más indicaciones al respecto....
 
+
+![image](https://user-images.githubusercontent.com/91023374/146168358-c31a9f0f-9413-455d-8a80-641add94fe99.png)
+
