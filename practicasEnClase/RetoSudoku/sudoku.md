@@ -42,11 +42,13 @@ El profesor irá publicando pistas para ayudar a aquellos bloqueados en diferent
 ![image](https://user-images.githubusercontent.com/91023374/146194724-942f3b84-3bfc-423e-921c-34a55faa7c0b.png)
 
 
+
 ## Comodín de ayuda
+![image](https://user-images.githubusercontent.com/91023374/146194926-050c287f-022d-4d23-9cb0-3ce825c31c64.png)
 
 Cada grupo podrá usar un comodín de ayuda a otro grupo para comparar soluciones, intercambiar información, ideas... trabajo colaborativo!!!!!
 
-![image](https://user-images.githubusercontent.com/91023374/146194475-b46eb259-438b-4293-adc1-bc4ad20c0759.png)
+
 
 
 
