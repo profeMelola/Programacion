@@ -46,7 +46,13 @@ El profesor irá publicando pistas para ayudar a aquellos bloqueados en diferent
 
 ![image](https://user-images.githubusercontent.com/91023374/146333140-faab5f14-2c63-4759-b14d-9587a779077f.png)
 
+### Segunda pista: algoritmo para borrar celdas (nivel medio)
 
+![image](https://user-images.githubusercontent.com/91023374/146376460-78485609-121c-435c-a6e3-01b7f5b5da75.png)
+
+- Borrar las diagonales del tablero completo. Esto afecta a 5 sectores, borrando 3 celdas en cada sector.
+- En los cuatro sectores restantes borrar solo 1 celda.
+- Todo hace un total de 5 * 3 + 4 * 1 = 19 celdas borradas
 
 
 ## Comodín de ayuda
