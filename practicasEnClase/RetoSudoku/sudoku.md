@@ -42,6 +42,11 @@ El profesor irá publicando pistas para ayudar a aquellos bloqueados en diferent
 ![image](https://user-images.githubusercontent.com/91023374/146194724-942f3b84-3bfc-423e-921c-34a55faa7c0b.png)
 
 
+### Primera pista: algoritmo para generar aleatoriamente un tablero de sudoku
+
+![image](https://user-images.githubusercontent.com/91023374/146332578-42925352-3f04-4299-84ee-49af533a0245.png)
+
+
 
 ## Comodín de ayuda
 ![image](https://user-images.githubusercontent.com/91023374/146194926-050c287f-022d-4d23-9cb0-3ce825c31c64.png)
