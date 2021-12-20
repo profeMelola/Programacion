@@ -64,11 +64,18 @@ Cada grupo podrá usar un comodín de ayuda a otro grupo para comparar solucione
 
 
 
-## Entrega
+## Entrega voluntaria
 
-El programa deberá entregarse en el aula virtual y posiblemente será defendido por todos los miembros del equipo.
+El programa podrá entregarse en el aula virtual (los fuentes y el jar).
 
-Se irá dando más indicaciones al respecto....
+Dicha entrega puede ser individual (porque hayas avanzado solo), por parejas, por el grupo original u otro grupo que hayáis creado....
 
-![image](https://user-images.githubusercontent.com/91023374/146168617-f2f5ae5a-de1d-4500-a777-7adb28c180d7.png)
+Quien o quienes como reto personal han trabajado en esta actividad pueden entregarla y a la vuelta de vacaciones iremos ejecutando los diferentes Sudokus para jugar en clase.
+
+No es una actividad evaluable. Es una cuestión personal el haber superado el reto.
+
+La entrega está en la sección principal del curso en el aula virtual:
+
+
+![image](https://user-images.githubusercontent.com/91023374/146826786-7b55f128-791e-4125-b78a-aafce4c15080.png)
 
