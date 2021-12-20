@@ -70,7 +70,7 @@ El programa podrá entregarse en el aula virtual (los fuentes y el jar).
 
 Dicha entrega puede ser individual (porque hayas avanzado solo), por parejas, por el grupo original u otro grupo que hayáis creado....
 
-Quien o quienes como reto personal han trabajado en esta actividad pueden entregarla y a la vuelta de vacaciones iremos ejecutando los diferentes Sudokus para jugar en clase.
+Quienes como reto personal (individual o grupal) hayan terminado esta actividad pueden entregarla y a la vuelta de vacaciones iremos ejecutando los diferentes Sudokus para jugar en clase.
 
 No es una actividad evaluable. Es una cuestión personal el haber superado el reto.
 
