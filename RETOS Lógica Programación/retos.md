@@ -21,7 +21,7 @@ Los factores primos de un número entero son los números primos divisores exact
 
 - Los factores primos de 6 son 2 y 3 (6 = 2 x 3). Ambos tienen multiplicidad 1.
 
-- 100 tiene dos factores primos: 2 y 5 (100 = 22 x 52). Ambos tienen multiplicidad 2.
+- 100 tiene dos factores primos: 2 y 5 (100 = 2^2 x 5^2). Ambos tienen multiplicidad 2.
 
 - Los factores primos de 13195 son 5, 7, 13 y 29.
 
