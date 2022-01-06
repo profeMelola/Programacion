@@ -6,5 +6,5 @@
 
 Si listamos todos los números naturales múltiplos de 3 o de 5 menores que 10, son 3, 5, 6 y 9. Y la suma de estos números es 23.
 
-**¿Cúal es la sumatoria de los múltiplos de 3 o de 5 menores que 100?**
+**¿Cúal es la sumatoria de los múltiplos de 3 o de 5 menores que 1000?**
 
