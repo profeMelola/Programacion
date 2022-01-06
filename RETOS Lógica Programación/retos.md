@@ -16,3 +16,6 @@ Si listamos todos los números naturales múltiplos de 3 o de 5 menores que 10, 
 
 # Reto 3 (nivel principiante)
 
+Los factores primos de 13195 son 5, 7, 13 y 29.
+
+**¿Cuál es el factor primo más grande del número 600851475143?
