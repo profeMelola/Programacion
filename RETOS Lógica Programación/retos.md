@@ -14,8 +14,14 @@ Si listamos todos los números naturales múltiplos de 3 o de 5 menores que 10, 
 
 **¿Cuál es la millonésima permutación lexicográfica de los dígitos A, B, C, D, E, F, G, H, I, J?**
 
-# Reto 3 (nivel principiante)
+# Reto 3 (nivel medio)
 
-Los factores primos de 13195 son 5, 7, 13 y 29.
+Los factores primos de un número entero son los números primos divisores exactos de ese número entero. Por ejemplo:
+
+- Los factores primos de 6 son 2 y 3 (6 = 2 x 3). Ambos tienen multiplicidad 1.
+
+- 100 tiene dos factores primos: 2 y 5 (100 = 22 x 52). Ambos tienen multiplicidad 2.
+
+- Los factores primos de 13195 son 5, 7, 13 y 29.
 
 **¿Cuál es el factor primo más grande del número 600851475143?**
