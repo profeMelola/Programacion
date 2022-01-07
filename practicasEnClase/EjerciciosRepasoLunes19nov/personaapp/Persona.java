@@ -11,7 +11,6 @@ package personaapp;
 /**
  * Clase Persona
  * Contiene información de una persona
- * @author DiscoDurodeRoer
  */
 public class Persona {
 
