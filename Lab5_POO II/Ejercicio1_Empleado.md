@@ -1,4 +1,6 @@
-# Codifica la siguiente jerarquía de clases java representada por este diagrama UML
+# Ejercicio POO sin herencia
+
+Codifica la siguiente jerarquía de clases java representada por este diagrama UML
 
 ![image](https://user-images.githubusercontent.com/91023374/148693304-5bf43e62-673f-4122-9793-b93c25e9a2ba.png)
 
