@@ -8,6 +8,8 @@
 - Se llamará "c3po"
 - Tendrá de color "dorado"
 - Fijar como idioma "español"
+- El método traducir mostrará un mensaje indicando el idioma a traducir
+- 
 - Llamar a los métodos mover() y hablar() de c3po
  
 ## Instanciar un objeto r2d2 de la clase R2Unit:
