@@ -54,3 +54,8 @@ Para cada objeto, deberá comprobar si esta en su peso ideal, tiene sobrepeso o 
 Indicar para cada objeto si es mayor de edad.
 
 Por último, mostrar la información de cada objeto.
+
+## Diagrama UML
+
+![image](https://user-images.githubusercontent.com/91023374/148837574-6986e70a-abb0-4fed-8e1a-4872a9d92f25.png)
+
