@@ -31,3 +31,7 @@ Solo se podrá sentar si:
 En caso de que el asiento este ocupado le buscamos uno libre.
 
 Los datos del espectador y la película pueden ser totalmente aleatorios.
+
+## PISTA: Diseño UML de una propuesta de resolución
+
+![CineUML](https://user-images.githubusercontent.com/91023374/148836581-f4b5eaf8-9e51-4927-b458-746a6910d9c9.png)
