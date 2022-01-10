@@ -194,3 +194,8 @@ Puntuación: 31 85 73
 El premio es 189
 
  Premio acumulado tras la ronda:  3: 728
+ 
+## Diseño UML
+
+![image](https://user-images.githubusercontent.com/91023374/148837242-cc4a674a-f091-42b4-a1bd-cc0bcb5622d9.png)
+
