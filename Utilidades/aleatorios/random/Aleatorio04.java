@@ -22,7 +22,7 @@ public class Aleatorio04 {
         Random random = new Random();
 
         // Obtener IntStream. El IntStream tendrá 10 números aleatorios
-        // entre 1 y 7, excluido el 7. Vaya, la típica tirada de dados del 1 al 6.
+        // entre 1 y 7, excluido el 7
         IntStream intStream = random.ints(10, 1, 7);
 
         // Iterador para ir obteniendo los números
