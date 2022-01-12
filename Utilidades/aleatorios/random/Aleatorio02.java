@@ -26,7 +26,7 @@ public class Aleatorio02 {
 
         for (int i = 0; i < 20; i++){
             aleatorio = r1.nextInt(6)+1;
-            System.out.println("Aleatorio entre 0 y 6:"+aleatorio);
+            System.out.println("Aleatorio entre 1 y 6:"+aleatorio);
         }
         
     }
