@@ -1,4 +1,4 @@
-# Ejercicio POO sin herencia
+# Ejercicio POO con herencia (sin clases abstractas ni interfaces)
 
 Codifica la siguiente jerarquía de clases java representada por este diagrama UML
 
