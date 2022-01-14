@@ -1,5 +1,5 @@
 
-# Crea las clases necesarias para el siguiente diagrama 
+# Crea las clases necesarias para el siguiente diagrama (con clases abstractas)
 
 ![image](https://user-images.githubusercontent.com/91023374/148698472-9bad4a51-66b5-4ca0-b21d-7631b9a17699.png)
 
