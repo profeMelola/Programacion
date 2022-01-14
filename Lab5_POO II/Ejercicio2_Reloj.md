@@ -12,3 +12,9 @@
 ## Parte III
 
 ![image](https://user-images.githubusercontent.com/91023374/149546782-c5094ebf-6044-4402-9bc7-7a5d38f16068.png)
+
+## Ejemplo de salidas del programa con diferentes set de datos
+
+![image](https://user-images.githubusercontent.com/91023374/149550906-e4e64e8e-318b-4221-b9eb-866c7e3e32a9.png)
+
+![image](https://user-images.githubusercontent.com/91023374/149551033-788a47a8-34df-467a-8dd6-576646866fe0.png)
