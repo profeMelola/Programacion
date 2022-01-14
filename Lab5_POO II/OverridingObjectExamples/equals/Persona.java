@@ -6,10 +6,6 @@ package equals;
 import java.time.LocalDate;
 import java.util.Objects;
 
-/**
- * @author Openwebinars
- *
- */
 public class Persona {
 
 	private String nombre;
@@ -74,9 +70,6 @@ public class Persona {
 //			return false;
 //		return true;
 //	}
-
-	// Estilo a partir de Java SE 7
-	// Mucho más compacto
 
 	@Override
 	public boolean equals(Object obj) {
