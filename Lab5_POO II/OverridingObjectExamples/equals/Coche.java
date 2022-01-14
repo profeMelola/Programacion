@@ -3,10 +3,7 @@
  */
 package equals;
 
-/**
- * @author Openwebinars
- *
- */
+
 public class Coche {
 	
 	private String marca;
