@@ -40,3 +40,6 @@ En el caso de los **satélites** es necesario almacenar:
 
 
 Define un método, que dado un objeto del sistema solar (planeta o satélite), imprima toda la información que se dispone sobre el mismo (además de su lista de satélites si los tuviera).
+
+![Captura de pantalla de 2022-01-14 18-55-49](https://user-images.githubusercontent.com/91023374/149562533-f583c5b3-2c44-4b25-8155-ecba6e193b6d.png)
+
