@@ -6,10 +6,6 @@ package hashCode;
 import java.time.LocalDate;
 import java.util.Objects;
 
-/**
- * @author Openwebinars
- *
- */
 public class PersonaV2 {
 
 	private String nombre;
@@ -46,50 +42,6 @@ public class PersonaV2 {
 		this.fechaNacimiento = fechaNacimiento;
 	}
 
-//	// Generado por Eclipse
-//	// Viejo estilo	
-//	@Override
-//	public int hashCode() {
-//		final int prime = 31;
-//		int result = 1;
-//		result = prime * result + ((apellidos == null) ? 0 : apellidos.hashCode());
-//		result = prime * result + ((fechaNacimiento == null) ? 0 : fechaNacimiento.hashCode());
-//		result = prime * result + ((nombre == null) ? 0 : nombre.hashCode());
-//		return result;
-//	}
-//	
-//
-//	// Generado por Eclipse
-//	// Viejo estilo
-//	@Override
-//	public boolean equals(Object obj) {
-//		if (this == obj)
-//			return true;
-//		if (obj == null)
-//			return false;
-//		if (getClass() != obj.getClass())
-//			return false;
-//		PersonaV2 other = (PersonaV2) obj;
-//		if (apellidos == null) {
-//			if (other.apellidos != null)
-//				return false;
-//		} else if (!apellidos.equals(other.apellidos))
-//			return false;
-//		if (fechaNacimiento == null) {
-//			if (other.fechaNacimiento != null)
-//				return false;
-//		} else if (!fechaNacimiento.equals(other.fechaNacimiento))
-//			return false;
-//		if (nombre == null) {
-//			if (other.nombre != null)
-//				return false;
-//		} else if (!nombre.equals(other.nombre))
-//			return false;
-//		return true;
-//	}
-
-	// Estilo a partir de Java SE 7
-	// Mucho más compacto
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)
