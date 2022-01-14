@@ -1,15 +1,11 @@
 /**
- * EJEMPLO DE COMPARACIÓN DE DOS INSTANCIAS DE UNA CLASE QUE TIENE
- * IMPLEMENTADO EL MÉTODO EQUALS
+ * EJEMPLO DE COMPARACIÃ“N DE DOS INSTANCIAS DE UNA CLASE QUE TIENE
+ * IMPLEMENTADO EL MÃ‰TODO EQUALS
  */
 package hashCode;
 
 import java.time.LocalDate;
 
-/**
- * @author Openwebinars
- *
- */
 public class EjemploHashCode {
 
 	/**
@@ -17,7 +13,7 @@ public class EjemploHashCode {
 	 */
 	public static void main(String[] args) {
 
-		//Persona sí que tiene implementado el método equals
+		//Persona sÃ­ que tiene implementado el mÃ©todo equals
 		PersonaV2 rafaNadal = new PersonaV2("Rafael", "Nadal Parera", LocalDate.of(1986, 6, 3));
 		PersonaV2 otroRafaNadal = new PersonaV2("Rafael", "Nadal Parera", LocalDate.of(1986, 6, 3));
 		PersonaV2 rogerFederer = new PersonaV2("Roger", "Federer", LocalDate.of(1981, 8, 8));
