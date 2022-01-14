@@ -1,15 +1,11 @@
 /**
- * EJEMPLO DE COMPARACIÓN DE DOS INSTANCIAS DE UNA CLASE QUE TIENE
- * IMPLEMENTADO EL MÉTODO EQUALS
+ * EJEMPLO DE COMPARACIÃ“N DE DOS INSTANCIAS DE UNA CLASE QUE TIENE
+ * IMPLEMENTADO EL MÃ‰TODO EQUALS
  */
 package equals;
 
 import java.time.LocalDate;
 
-/**
- * @author Openwebinars
- *
- */
 public class EjemploEquals {
 
 	/**
@@ -32,7 +28,7 @@ public class EjemploEquals {
 		//No copia valores
 		volkswagen = mercedes;
 
-		// Esta línea de código es equivalente al bloque if/else de arriba
+		// Esta lÃ­nea de cÃ³digo es equivalente al bloque if/else de arriba
 		System.out.println((mercedes.equals(volkswagen)) ? 
 				"Los dos coches son iguales" : "Son diferentes");
 		
@@ -40,7 +36,7 @@ public class EjemploEquals {
 		System.out.println("Volkswagen: " + volkswagen);
 		
 		System.out.println("\n\n\n");
-		//Persona sí que tiene implementado el método equals
+		//Persona sÃ­ que tiene implementado el mÃ©todo equals
 		Persona rafaNadal = new Persona("Rafael", "Nadal Parera", LocalDate.of(1986, 6, 3));
 		Persona otroRafaNadal = new Persona("Rafael", "Nadal Parera", LocalDate.of(1986, 6, 3));
 		Persona rogerFederer = new Persona("Roger", "Federer", LocalDate.of(1981, 8, 8));
