@@ -30,7 +30,7 @@ En el caso de los **satélites** es necesario almacenar:
 
 
 
-**Define las clases necesarias conteniendo: **
+**Define las clases necesarias conteniendo:**
 
 • Constructores. 
 
