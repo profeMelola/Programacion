@@ -11,7 +11,7 @@ Si listamos todos los números naturales múltiplos de 3 o de 5 menores que 10, 
 
 # Reto 2 
 
-Escribir un programa que solicite al usuario números enteros hasta que se cumplan las siguientes condiciones:
+Escribir un programa que solicite al usuario números enteros hasta que se cumplan algunas de las siguientes condiciones:
 
 - La suma de todos los números introducidos sea superior a 100
 - Se introduzca 3 veces el valor 3
