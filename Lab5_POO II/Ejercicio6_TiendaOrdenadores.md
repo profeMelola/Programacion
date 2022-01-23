@@ -1,5 +1,5 @@
 # Tienda de ordenadores
-## Ejercicio para practica la herencia
+## Ejercicio para practicar la herencia
 
 En una **tienda** se venden 2 tipos de ordenadores: **portátiles y de sobremesa.**
 
