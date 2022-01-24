@@ -2,9 +2,9 @@
 
 Una consultora necesita un software para gestionar el perfil de sus trabajadores programadores.
 
-De cada **programador** necesita conocer su dni, nombre, edad y los lenguajes de programación que conoce.
+De cada **programador** necesita conocer su dni, nombre, edad, lenguaje de programación que conoce (solo conoce uno) y años de experiencia que tiene en ese lenguaje.
 
-Los **lenguajes de programación** de todos los programadores pueden ser: JAVA, PHP, C, PERL, RUBY y PYTHON.
+Los **lenguajes de programación** que conocen los programadores de la empresa son: JAVA, PHP, C, PERL, RUBY y PYTHON.
 
 Por cada lenguaje de programación hay que especificar los años de experiencia que debe tener un programador en dicho lenguaje para considerarse con categoría "experto".
 Dichos valores son:
