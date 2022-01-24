@@ -18,16 +18,16 @@ El programa debe mostrar un **menú** para añadir programadores y para mostrar 
 
 En cualquier momento se podrá *añadir un programador* y se podrá *consultar por un programador concreto (indicando el dni) o por todos los programadores almacenados.*
 
-La información de cada programador será:
+La información a mostrar de cada programador será:
 - su información personal.
-- lenguaje de programación que conoce (solo conoce uno)
+- lenguaje de programación que conoce (requisito: solo conoce uno)
 - años de experiencia que tiene en el lenguaje.
 
-También debe existir la opción de poder *eliminar un programador de la lista.*
+También debe existir las  opciones:
 
-También debe existir la opción de elegir un lenguaje de programación y que se muestren el número total de programadores expertos en ese lenguaje.
-
-En el menú debe existir una opción de *salir para salir del programa.*
+- eliminar un programador de la lista.
+- elegir un lenguaje de programación y que se muestren el número total de programadores expertos en ese lenguaje, es decir, aquellos que tienen los años de experiencia suficientes.
+- salir para salir del programa.
 
 
 
