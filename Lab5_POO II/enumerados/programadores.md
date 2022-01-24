@@ -1,4 +1,4 @@
-# Ejercicio para practica con tipos enumerados
+# Ejercicio para practicar con tipos enumerados
 
 Una consultora necesita un software para gestionar el perfil de sus trabajadores programadores.
 
