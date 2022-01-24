@@ -20,9 +20,8 @@ En cualquier momento se podrá *añadir un programador* y se podrá *consultar p
 
 La información de cada programador será:
 - su información personal.
-- los lenguajes de programación que conoce
-- los años de experiencia que tiene en cada lenguaje
-- los años totales de experiencia que tiene en total.
+- lenguaje de programación que conoce (solo conoce uno)
+- años de experiencia que tiene en el lenguaje.
 
 También debe existir la opción de poder *eliminar un programador de la lista.*
 
