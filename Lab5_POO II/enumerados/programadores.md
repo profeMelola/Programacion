@@ -20,10 +20,10 @@ En cualquier momento se podrá *añadir un programador* y se podrá *consultar p
 
 La información a mostrar de cada programador será:
 - su información personal.
-- lenguaje de programación que conoce (requisito: solo conoce uno)
+- lenguaje de programación que conoce.
 - años de experiencia que tiene en el lenguaje.
 
-También debe existir las  opciones:
+También deben existir las siguientes opciones en el menú:
 
 - eliminar un programador de la lista.
 - elegir un lenguaje de programación y que se muestren el número total de programadores expertos en ese lenguaje, es decir, aquellos que tienen los años de experiencia suficientes.
