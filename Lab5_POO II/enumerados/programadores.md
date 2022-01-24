@@ -6,7 +6,7 @@ De cada **programador** necesita conocer su dni, nombre, edad y los lenguajes de
 
 Los **lenguajes de programación** de todos los programadores pueden ser: JAVA, PHP, C, PERL, RUBY y PYTHON.
 
-Por cada lenguaje de programación se podrá especificar los años de experiencia que debe tener un programador en dicho lenguaje para considerarse con categoría "experto".
+Por cada lenguaje de programación hay que especificar los años de experiencia que debe tener un programador en dicho lenguaje para considerarse con categoría "experto".
 Dichos valores son:
     JAVA(4), PHP(2), C(5), PERL(6), RUBY(3), PYTHON(4)
 
