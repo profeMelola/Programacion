@@ -23,6 +23,8 @@ La información de cada programador será:
 
 También debe existir la opción de poder *eliminar un programador de la lista.*
 
+También debe existir la opción de elegir un lenguaje de programación y que se muestren el número total de programadores expertos en ese lenguaje.
+
 En el menú debe existir una opción de *salir para salir del programa.*
 
 
