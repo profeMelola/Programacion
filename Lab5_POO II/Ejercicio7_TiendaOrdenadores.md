@@ -14,9 +14,9 @@ Además, cada uno tiene un **eslogan** que es:
 
 - un atributo peso
 
-Los de sobremesa tienen:
+**Los de sobremesa tienen:**
 
-**- la descripción del tipo de torre.**
+- la descripción del tipo de torre.
 
 ### Se pide:
 
