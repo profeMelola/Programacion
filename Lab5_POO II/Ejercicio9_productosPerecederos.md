@@ -32,9 +32,29 @@ Crea una clase ejecutable y crea un array de productos y muestra el precio total
 
 # NUEVOS REQUISITOS
 
+## REQUISITO 1
 Debemos ampliar el programa anterior de tal forma que TODOS los productos deben poder devolverse al proveedor.
 
 - Si son **perecederos** solo pueden devolverse cuando le queda más de 5 días para caducar.
 - Si **no son perecederos** solo pueden devolverse en el caso de que el tipo sea "Permite devolución".
 
-## Pregunta: ¿Utilizarías una clase abstracta? ¿Qué método sería abstracto? Razona la respuesta
+### Pregunta: ¿Utilizarías una clase abstracta? ¿Qué método sería abstracto? Razona la respuesta
+
+## REQUISITO 2
+Todos los productos, al igual que todos los clientes y proveedores (producto, cliente y proveedor son clases del programa) deben poder exportarse a formato XML.
+Para ello existe una clase llamada "ConvertObjectToXML" que necesita recibir el objeto y que invocará al método **convertible** que devuelve un String con el formato del xml de cada objeto.
+El xml en el que se convierten los productos, clientes y proveedores son diferentes.
+
+### Ejemplos:
+
+#### XML de productos
+
+&lt;producto&gt;&lt;producto&gt;
+  
+#### XML de clientes
+&lt;cliente&gt;&lt;cliente&gt;
+  
+#### XML de proveedores
+&lt;proveedor&gt;&lt;proveedor&gt;
+
+### Pregunta: ¿Utilizarías una interface? Razona tu respuesta
