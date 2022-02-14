@@ -63,4 +63,4 @@ El xml en el que se convierten los productos, clientes y proveedores son diferen
 
 ### Pregunta: ¿Utilizarías una interface? Razona tu respuesta
 
-No se pide programar las clases Cliente, Proveedor, pero sí la interface y su implementación en la clase Producto.
+No se pide programar las clases Cliente, Proveedor, ni el método ConvertObjectToXML..... pero sí la interface y su implementación en la clase Producto.
