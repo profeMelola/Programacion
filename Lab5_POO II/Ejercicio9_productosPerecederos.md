@@ -9,7 +9,7 @@ Los productos tienen los siguientes atributos:
 Tenemos dos tipos de productos:
 
 - *Perecedero:* tiene un atributo llamado días a caducar
-- *No perecedero:* tiene un atributo llamado tipo
+- *No perecedero:* tiene un atributo llamado tipo con valores ("Sin devolución", "Permite devolución");
 
 Crea sus constructores, getters, setters y toString.
 
@@ -29,3 +29,12 @@ En **NoPerecedero**, hace lo mismo que en producto.
 Crea una clase ejecutable y crea un array de productos y muestra el precio total de vender 5  productos de cada uno. Crea tú mismo los elementos del array.
 
 ## Pregunta: ¿Utilizarías una clase abstracta? Razona la respuesta
+
+# NUEVOS REQUISITOS
+
+Debemos ampliar el programa anterior de tal forma que TODOS los productos deben poder devolverse al proveedor.
+
+- Si son **perecederos** solo pueden devolverse cuando le queda más de 5 días para caducar.
+- Si **no son perecederos** solo pueden devolverse en el caso de que el tipo sea "Permite devolución".
+
+## Pregunta: ¿Utilizarías una clase abstracta? ¿Qué método sería abstracto? Razona la respuesta
