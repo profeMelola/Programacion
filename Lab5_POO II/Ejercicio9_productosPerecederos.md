@@ -42,7 +42,8 @@ Debemos ampliar el programa anterior de tal forma que TODOS los productos deben 
 
 ## REQUISITO 2
 Todos los productos, al igual que todos los clientes y proveedores (producto, cliente y proveedor son clases del programa) deben poder exportarse a formato XML.
-Para ello existe una clase llamada "ConvertObjectToXML" que necesita recibir el objeto y que invocará al método **convertible** que devuelve un String con el formato del xml de cada objeto.
+Para ello existe una clase con un método estático llamado "ConvertObjectToXML" que necesita recibir el objeto a convertir a XML y que invocará al método **convertible** que devuelve un String con el formato del xml de cada objeto (tipo plantilla).
+
 El xml en el que se convierten los productos, clientes y proveedores son diferentes.
 
 ### Ejemplos:
@@ -58,3 +59,5 @@ El xml en el que se convierten los productos, clientes y proveedores son diferen
 &lt;proveedor&gt;&lt;proveedor&gt;
 
 ### Pregunta: ¿Utilizarías una interface? Razona tu respuesta
+
+No se pide programar las clases Cliente, Proveedor, pero sí la interface y su implementación en la clase Producto
