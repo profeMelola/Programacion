@@ -16,7 +16,7 @@ Implementa los siguientes métodos:
 
 public double getNotaAsignatura(int codigoAsignatura); Recibe como parámetro el código de la asignatura. 
 
-public void ponerNotaAsignatura(int codigoAsignatura); Recibe como parámetro el código de la asignatura. 
+public void ponerNotaAsignatura(int codigoAsignatura, double nota); Recibe como parámetro el código de la asignatura y la nota. 
 
 public String mostrarAsignaturasMatriculadas(); 
 
