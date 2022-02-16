@@ -43,9 +43,9 @@ Debemos ampliar el programa anterior de tal forma que TODOS los productos deben 
 ## REQUISITO 2
 Todos los productos, al igual que todos los clientes y proveedores (producto, cliente y proveedor son clases del programa de gestión de la tienda) deben poder exportarse a formato XML.
 
-Para ello existe una clase con un método estático llamado **ConvertObjectToXML** que necesita recibir el objeto a convertir a XML y que invocará al método **convertir2XML**.
+Para ello existe una clase con un método estático llamado **ConvertObjectToXML** que necesita recibir el objeto a convertir a XML y que invocará al método **getPlantillaXML**.
 
-Este método devuelve un String con el formato del xml de cada objeto (tipo plantilla).
+Este método devuelve un String con el formato del xml de cada objeto a modo de plantilla para que ConvertObjectoToXML pueda generar correctamente el XML del objeto.
 
 El xml en el que se convierten los productos, clientes y proveedores son diferentes.
 
@@ -53,13 +53,13 @@ El xml en el que se convierten los productos, clientes y proveedores son diferen
 
 #### XML de productos
 
-&lt;producto&gt;&lt;producto&gt;
+&lt;producto&gt;bla bla bla&lt;producto&gt;
   
 #### XML de clientes
-&lt;cliente&gt;&lt;cliente&gt;
+&lt;cliente&gt;bla bla bla&lt;cliente&gt;
   
 #### XML de proveedores
-&lt;proveedor&gt;&lt;proveedor&gt;
+&lt;proveedor&gt;bla bla bla&lt;proveedor&gt;
 
 ### Pregunta: ¿Utilizarías una interface? Razona tu respuesta
 
