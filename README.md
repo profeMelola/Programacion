@@ -25,12 +25,12 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 - Arrays (Tema 5 del aula virtual) [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
 - Programación Orientada a Objetos (Tema 7 del aula virtual) [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
 - Excepciones [Laboratorio 6](Lab6/excepciones.md)
-- Ejercicios de Repaso 2º trimestre [Laboratorio 7]
+- **Ejercicios de Repaso 2º trimestre POO** [Laboratorio 7]
 - **TERCER TRIMESTRE** [Laboratorio 8](Lab8/Instrucciones_Lab8.md)
 
 ........
 
-## Actividades de repaso grupales (varios laboratorios)
+## Actividades de repaso. Programación estructurada
 #### Repaso - Primeros conceptos [Repaso nivel 1,2 y 3](Repaso/Repaso_Nivel_123.md)
 #### Repaso - Bucles [Repaso nivel 4,5 y 6](Repaso/Repaso_Bucles_Nivel_456.md)
 #### Repaso - Funciones [Repaso nivel 7,8 y 9](Repaso/Repaso_Funciones_Nivel_789.md)
