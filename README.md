@@ -24,6 +24,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 - Funciones / métodos / Clase String (Tema 4 y 5 del aula virtual) [Laboratorio 3](Lab3/Instrucciones_Lab3.md)
 - Arrays (Tema 5 del aula virtual) [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
 - Programación Orientada a Objetos (Tema 7 del aula virtual) [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
+- Excepciones [Laboratorio 6](Lab6/Instrucciones_Lab6.md)
 
 ........
 
