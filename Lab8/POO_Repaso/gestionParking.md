@@ -4,7 +4,14 @@ NOTA: No hay abstracción. Es una jerarquía simple
 
 ![image](https://user-images.githubusercontent.com/91023374/159494434-50d913bf-9dc8-4fc1-a5c1-5739419c4139.png)
 
+Como se puede ver en el dibujo del parking, la numeración de las plazas se ha hecho en forma de serpiente, de abajo a arriba, de arriba a abajo....
+
 ![image](https://user-images.githubusercontent.com/91023374/159494475-39febb2b-ad43-4049-a1a1-e481740d9b4b.png)
+
+
+## Ejemplo de estructura del proyecto en NetBeans
+
+![image](https://user-images.githubusercontent.com/91023374/159540240-d587578d-ec3c-4b88-857c-51a9c024d531.png)
 
 
 ## Salida del programa. Menús y opciones
