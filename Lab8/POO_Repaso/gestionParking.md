@@ -1,12 +1,11 @@
 # Enunciado
 
+NOTA: No hay abstracción. Es una jerarquía simple
+
 ![image](https://user-images.githubusercontent.com/91023374/159494434-50d913bf-9dc8-4fc1-a5c1-5739419c4139.png)
 
 ![image](https://user-images.githubusercontent.com/91023374/159494475-39febb2b-ad43-4049-a1a1-e481740d9b4b.png)
 
-![image](https://user-images.githubusercontent.com/91023374/159494517-3fe1cba9-78ea-46e2-b2b0-751b366b4ceb.png)
-
-![image](https://user-images.githubusercontent.com/91023374/159494563-f5335280-b2f3-4bd5-8690-0b257a14b56c.png)
 
 ## Salida del programa. Menús y opciones
 
