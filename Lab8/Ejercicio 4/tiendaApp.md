@@ -1,10 +1,19 @@
-# Enunciado
+# Enunciado (BORRADOR.... PENDIENTE COMPLETAR ESPECIFICACIONES....)
 
 Queremos hacer la aplicación de una tienda.
+
+La tienda estará compuesta por un listado de clientes.
 
 ## Lista de clientes
 
 Lista de clientes utilizando su número de teléfono como clave para almacenar cada uno de los cliente. 
+
+## Cliente
+
+Atributos: DNI, nombre, apellidos, teléfono, una colección con los tickets que tiene (es decir) las compras que ha hecho.  
+
+Y se van a almacenar como número de ticket y ticket.
+
 
 ## Ticket
 
@@ -24,8 +33,4 @@ Se pueden repetir líneas.
 
 Producto almacenará la categoría (ej. alimentación, droguería..), nombre, marca, precio sin iva, tipoIva y su abreviatura, codigoBarras.. 
 
-## Cliente
 
-DNI, nombre, apellidos, teléfono, una colección con los tickets que tiene (es decir) las compras que ha hecho.  
-
-Y se van a almacenar como número de ticket y ticket (mapa).
