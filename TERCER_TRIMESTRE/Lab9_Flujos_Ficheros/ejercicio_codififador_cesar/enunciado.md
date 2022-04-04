@@ -18,7 +18,7 @@ ES UN ALGORITMO DE CIFRADO SIMÉTRICO.
 3. Ejecútalo y comprueba que funciona correctamente.
 4. Debes realizar los siguientes cambios al código fuente:
   - Modificar la forma de creación del BufferedReader y BufferedWriter utilizando la clase Files y la interface Paths y objetos Paths que consideres necesario (son del paquete java.nio)
-  - El algoritmo de cifrado debes de mantenerlo, no es necesario modificarlo pero crea un método separado para tener el código más legible. Recuerda que solo se desplaza el carácter tres posicicione si es una letra.
+  - El algoritmo de cifrado debes de mantenerlo, no es necesario modificarlo pero crea un método separado para tener el código más legible. Recuerda que solo se desplaza el carácter tres posiciciones si es una letra.
   - Cambia el try... catch... finally clásico por un try... catch con recursos (donde no es necesario cerrar los búfferes).
   
   Ejemplo de try... catch con varios recursos:
