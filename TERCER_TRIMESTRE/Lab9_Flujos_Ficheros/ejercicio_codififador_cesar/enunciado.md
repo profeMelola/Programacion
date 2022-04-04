@@ -20,6 +20,16 @@ ES UN ALGORITMO DE CIFRADO SIMÉTRICO.
   - Modificar la forma de creación del BufferedReader y BufferedWriter utilizando la clase Files y la interface Paths y objetos Paths que consideres necesario (son del paquete java.nio)
   - El algoritmo de cifrado debes de mantenerlo, no es necesario modificarlo pero crea un método separado para tener el código más legible. Recuerda que solo se desplaza el carácter tres posicicione si es una letra.
   - Cambia el try... catch... finally clásico por un try... catch con recursos (donde no es necesario cerrar los búfferes).
+  
+  Ejemplo de try... catch con varios recursos:
+  ```
+          try(BufferedInputStream bin = new BufferedInputStream(new FileInputStream("image.jpg"));
+                BufferedOutputStream bout = new BufferedOutputStream(new FileOutputStream("image_copy.jpg"));){
+                ....
+                }
+  ```
+
+  
   - Implementa el algoritmo de descifrado en un método separado, de forma que pasando el fichero mensaje_cifrado.txt se obtenga el mensaje original.
   
   
