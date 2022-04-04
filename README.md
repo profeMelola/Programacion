@@ -25,7 +25,7 @@ Cada laboratorio está contenido en su propia carpeta con instrucciones, ejemplo
 - Arrays (Tema 5 del aula virtual) [Laboratorio 4](Lab4/Instrucciones_Lab4.md)
 - Programación Orientada a Objetos (Tema 7 del aula virtual) [Laboratorio 5](Lab5/Instrucciones_Lab5.md)
 - Excepciones [Laboratorio 6](Lab6/excepciones.md)
-- **Ejercicios de Repaso 2º trimestre POO** [Laboratorio 7](Lab7_FIN_2_EV/readme.md)
+- **Ejercicios de Repaso 2º trimestre POO** [Laboratorio 7](Lab7_FIN_2_EV/instrucciones.md)
 - **TERCER TRIMESTRE** [Tercer trimestre](TERCER_TRIMESTRE/readme.md)
 
 ........
