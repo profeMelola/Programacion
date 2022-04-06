@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ejercicios con Formularios</title>
+    <style>
+        /*#codpostal:valid{
+            background-color: blue;
+        }*/
+        input:invalid{
+            /*background-color: rgb(231, 14, 166);*/
+            border: 2px dotted greenyellow;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align:center">HOJA DE INSCRIPCIÓN</h1>
+    <h1 style="text-align:center">EN LOS CICLOS FORMATIVOS DE GRADO SUPERIOR</h1>
+    <form action="https://site.educa.madrid.org/ies.alonsodeavellan.alcala/">
+        <fieldset style="background-color: #BBBBBB">
+            <legend style="border: 1px solid black; background-color: white">Datos Personales</legend>
+            <table>
+                <tr>
+                    <td><label for="nombre">Nombre:</label></td>
+                    <td><label for="apellidos">Apellido:</label></td>
+                    <td><label for="dni">DNI</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" name="nombre" required/></td>
+                    <td><input type="text" name="apellidos" required/></td>
+                    <td><input type="text" name="dni" pattern="[0-9]{8}[A-Z]{1}" required/></td>
+                </tr>
+                <tr>
+                    <td><label for="localidad">Localidad de Nacimiento</label></td>
+                    <td><label for="provincia">Provincia:</label></td>
+                    <td><label for="fecha">Fecha de Nacimiento</label></td>
+                </tr>
+                <tr>
+                    <td><input type="text" name="localidad" /></td>
+                    <td>
+                        <select name="provincia">
+                            <option>Huelva</option>
+                            <option>Sevilla</option>
+                            <option>Cádiz</option>
+                            <option>Córdoba</option>
+                            <option>Jaén</option>
+                            <option>Granada</option>
+                            <option>Málaga</option>
+                            <option>Almería</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="date" name="fecha" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><label for="direccion">Dirección</label></td>
+                    <td><label for="codpostal">Código Postal:</label></td>
+
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="text" size="40" name="direccion" maxlength="10"/>
+                    </td>
+                    <td>
+                        <input type="text" id="codpostal" name="codpostal" pattern="[0-9]{5}"/>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset style="background-color: rgb(241, 194, 156)">
+            <legend style="border: 1px solid black; background-color: white">Forma de Acceso</legend>
+            <ul style="list-style-type: none">
+                <li><input type="radio" name="modo" value="directo" />Directo
+                    <ul style="list-style-type: none">
+                        <li><input type="radio" name="etapa" value="logse" />Bachillerato Log Modalidad<input type="text" /></li>
+                        <li><input type="radio" name="etapa" value="experimental" />Experimental</li>
+                        <li><input type="radio" name="etapa" value="cou" />COU Opción<input type="text" /></li>
+                        <li><input type="radio" name="etapa" value="fp2" />FP2</li>
+                        <li><input type="radio" name="etapa" value="otros" />Otros (especifique) <input type="text" /></li>
+                    </ul>
+                </li>
+                <li><input type="radio" name="modo" value="prueba" disabled/>Prueba Libre</li>
+            </ul>
+        </fieldset>
+        <fieldset style="background-color: rgb(182, 126, 126)">
+            <legend style="border: 1px solid black; background-color: white">Documentos Adjuntados</legend>
+            <table>
+                <tr>
+                    <td><input type="checkbox" name="docs" value="dni" />Fotocopia DNI</td>
+                    <td><input type="checkbox" name="docs" value="certificado" />Certificado Académico</td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="checkbox" name="docs" value="otros" />Otros documentos (especifique)
+                        <input type="text" \>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <p>
+            <!-- por defecto los tres botones se ponen en línea-->
+            <!--<input type="submit" value="Enviar Solicitud"/>
+            <input type="reset" value="Reset" />
+            <input type="button" value="Saludar" onClick="alert('Hola!!!!');"/>-->
+
+            <!-- con diferentes formas de ponerlos en bloque y no en línea-->
+            <input type="submit" value="Enviar Solicitud" style="display:block"/>
+            <input type="reset" value="Reset" /><br>
+            <input type="button" value="Saludar" onClick="alert('Hola!!!!');"/>
+        </p>
+    </form>
+
+</body>
+
+</html>
