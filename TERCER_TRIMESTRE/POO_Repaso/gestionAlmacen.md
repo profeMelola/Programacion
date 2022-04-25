@@ -24,4 +24,5 @@ En el almacén iremos almacenado estas bebidas por estanterías (que son las col
 
 ## Usa el ZIP proporcionado como punto de partida
 Completa los fuentes y cargar los productos en base al DAO (FuentesIniciales_GestionAlmacen.zip).
+
 Puedes usar un main para probar las funcionalidades (añade productos, calcula precios, muestra información, etc)
